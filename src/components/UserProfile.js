@@ -60,7 +60,6 @@ const UserProfile = (props) => {
     avatar_url,
     repositories,
   } = props.data;
-
   const classes = useStyles();
   return (
     <Grid container className={classes.container}>
