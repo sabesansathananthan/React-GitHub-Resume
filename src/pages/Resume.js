@@ -44,19 +44,19 @@ export default class Resume extends Component {
   }
 
   handleErrors(response) {
-    if (!response.ok) {
+    if (!response.statusText) {
       var error = new Error(response.statusText || response.status);
       return Promise.reject(error);
     }
-    return response.json();
+    return response.data;
   }
 
-  fetchUserData(username) {
-    return fetch(GITHUB_API_USER + username).then(this.handleErrors);
+   fetchUserData(username) {
+    return Axios.get(GITHUB_API_USER + username).then(this.handleErrors);
   }
 
-  fetchUserRepos(username) {
-    return fetch(GITHUB_API_USER + username + "/repos")
+   fetchUserRepos(username) {
+    return Axios.get(GITHUB_API_USER + username + "/repos")
       .then(this.handleErrors)
       .then((repositories) => this.fetchReposLanguages(repositories));
   }
@@ -74,7 +74,7 @@ export default class Resume extends Component {
     repositories.sort(this.comapare);
     return Promise.all(
       repositories.map((repo) =>
-        fetch(repo.languages_url)
+        Axios.get(repo.languages_url)
           .then(this.handleErrors)
           .then((repoLanguages) => {
             return {
