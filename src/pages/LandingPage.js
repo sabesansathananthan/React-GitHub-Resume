@@ -47,10 +47,10 @@ class Home extends Component {
           style={{ flexDirection: "column" }}
         >
           <Typography variant="h5" align="center">
-            React Github Resume {packageJson.version}
+            Github Resume Generator {packageJson.version}
           </Typography>
           <Typography variant="body1" className="description" align="center">
-            Please enter Github profile name with case sensitive
+            Please enter GitHub username
           </Typography>
 
           <SearchForm
