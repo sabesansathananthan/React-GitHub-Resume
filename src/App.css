@@ -8,22 +8,6 @@ body {
   background: var(--bg-light-gray);
 }
 
-.container {
-  max-width: 80%;
-  margin: 2rem auto;
-  padding: 1rem;
-}
-
-.container--bg-white {
-  background: white;
-  border-radius: 10px;
-}
-
-@media only screen and (min-width: 992px) {
-  .container {
-    max-width: 800px;
-  }
-}
 .icon {
   margin-right: 0.5rem;
   color: black;

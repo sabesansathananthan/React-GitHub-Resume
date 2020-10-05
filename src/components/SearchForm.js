@@ -39,44 +39,47 @@ const useStyles = makeStyles((theme) => ({
 
 const SearchForm = (props) => {
   const classes = useStyles();
+
   return (
     <Grid style={{ textAlign: "center" }}>
-      <FormControl className="form">
-        <Grid className={classes.margin}>
-          <Grid container spacing={1} alignItems="flex-end">
-            <Grid item>
-              <AccountCircle />
+      <form onSubmit={props.handleSubmit}>
+        <FormControl className="form">
+          <Grid className={classes.margin}>
+            <Grid container spacing={1} alignItems="flex-end">
+              <Grid item>
+                <AccountCircle />
+              </Grid>
+              <Grid item>
+                <TextField
+                  id="username"
+                  label="Username"
+                  onChange={props.handleChange}
+                  placeholder="type in github username"
+                  type="text"
+                  className={classes.textField}
+                />
+              </Grid>
+              <Button
+                variant="contained"
+                color="primary"
+                className={classes.button}
+                onClick={props.handleSubmit}
+              >
+                Generate
+              </Button>
             </Grid>
-            <Grid item>
-              <TextField
-                id="username"
-                label="Username"
-                onChange={props.handleChange}
-                placeholder="type in github username"
-                type="text"
-                className={classes.textField}
-              />
-            </Grid>
-            <Button
-              variant="contained"
-              color="primary"
-              className={classes.button}
-              onClick={props.handleSubmit}
-            >
-              Generate
-            </Button>
           </Grid>
-        </Grid>
-        {props.validationError ? (
-          <Typography className={classes.validationTypo} variant="body1">
-            <i
-              className="icon fas fa-exclamation-circle"
-              style={{ color: "red" }}
-            ></i>
-            Username is required
-          </Typography>
-        ) : null}
-      </FormControl>
+          {props.validationError ? (
+            <Typography className={classes.validationTypo} variant="body1">
+              <i
+                className="icon fas fa-exclamation-circle"
+                style={{ color: "red" }}
+              ></i>
+              Username is required
+            </Typography>
+          ) : null}
+        </FormControl>
+      </form>
     </Grid>
   );
 };
