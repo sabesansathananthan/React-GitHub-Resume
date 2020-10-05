@@ -21,6 +21,7 @@ export default class Resume extends Component {
     if (localStorage.getItem("lang")) {
       lang.data = JSON.parse(localStorage.getItem("lang"));
     } else {
+      localStorage.clear();
       lang = await Axios.get("https://github-lang-deploy.herokuapp.com/");
       localStorage.setItem("lang", JSON.stringify(lang.data));
     }
