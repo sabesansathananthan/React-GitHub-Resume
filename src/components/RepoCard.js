@@ -27,7 +27,12 @@ const RepoCard = (props) => {
   return (
     <Grid className={classes.card}>
       <i className="icon fas fa-star"></i> {item.stars}
-      <a href={item.url} style={{ textDecoration: "none", color: "black" }}>
+      <a
+        href={item.url}
+        style={{ textDecoration: "none", color: "black" }}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <Typography variant="h6" style={{ fontWeight: "bolder" }}>
           {item.name}
         </Typography>

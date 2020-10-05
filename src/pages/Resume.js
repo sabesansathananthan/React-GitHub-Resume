@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { UserProfile, Loader } from "../components";
 import { Grid } from "@material-ui/core";
+import Axios from "axios";
 
 const GITHUB_API_USER = "https://api.github.com/users/";
 
@@ -20,7 +21,7 @@ export default class Resume extends Component {
     if (localStorage.getItem("lang")) {
       lang.data = JSON.parse(localStorage.getItem("lang"));
     } else {
-      lang = await fetch("https://github-lang-deploy.herokuapp.com/");
+      lang = await Axios.get("https://github-lang-deploy.herokuapp.com/");
       localStorage.setItem("lang", JSON.stringify(lang.data));
     }
     this.setState({ language: lang.data });
