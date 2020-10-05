@@ -1,14 +1,34 @@
-# React-GitHub-Resume
+# GitHub Resume Generator
+
+![React GitHub Resume](./src/assets/readme/screenshot.png)
+
+## Table of Content
+
+- [About](#about)
+- [Built with](#built-with)
+- [Installation](#installation)
+- [Demo](#live-demo)
+
+<br>
+
+### 🌎 *Read in [other languages](./translations/Translations.md)*
+
+<br>
+
+<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
+<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd> Upcoming
+<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
+<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
+
+<br>
+
+## 🤔 About
 
 Aim of this repository is to generate `Github Resume` for each github users.
 
----
+## 🛠️ Built with
 
-## [Live Demo](https://react-github-resume.vercel.app/)
-
-## Built with 🛠️
-
-- [React](https://es.reactjs.org/) - Front-End JavaScript library
+- [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
 ## Installation
@@ -24,24 +44,38 @@ cd React-GitHub-Resume
 
 2. Install packages
 
-```bash
-npm install
-```
+    If you use `npm`
+    ```bash
+    npm install
+    ```
+
+    or
+
+    If you use `yarn`
+    ```bash
+    yarn
+    ```
 
 3. Run the development server
 
-```bash
-npm start
-```
+    If you use `npm`
+    ```bash
+    npm start
+    ```
 
-4. Visit http://localhost:3000
+    or
 
----
+    If you use `yarn`
+    ```bash
+    yarn start
+    ```
 
-## Deployment Status
+4. Visit <http://localhost:3000>
 
----
+## [Live Demo](https://react-github-resume.vercel.app/)
 
-## License 📄
+-----
+
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
