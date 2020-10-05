@@ -34,7 +34,7 @@ const Footer = () => {
         </a>
       </Typography>
       <Typography variant="body1" className="description" align="center">
-        If you like this project don't forget to{" "}
+        If you like this project don't forget to give{" "}
         <a
           href="https://github.com/sabesansathananthan/React-GitHub-Resume"
           className="octicon octicon-star"
@@ -44,7 +44,7 @@ const Footer = () => {
         >
           Star
         </a>{" "}
-        the repository
+        to this repository
       </Typography>
     </Grid>
   );

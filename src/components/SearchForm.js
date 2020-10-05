@@ -52,9 +52,9 @@ const SearchForm = (props) => {
               <Grid item>
                 <TextField
                   id="username"
-                  label="Username"
+                  label="Github username"
                   onChange={props.handleChange}
-                  placeholder="type in github username"
+                  placeholder="type your github username"
                   type="text"
                   className={classes.textField}
                 />

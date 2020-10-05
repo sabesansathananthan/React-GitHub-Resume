@@ -11,7 +11,7 @@ Aim of this repository is to generate `Github Resume` for each github users.
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Development
+## Installation
 
 To setup the app for development on your local machine, please follow the instructions below:
 

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "GitHub Resume",
+  "short_name": "Github Resume",
+  "name": "GitHub Resume Generator",
   "icons": [
     {
       "src": "favicon.ico",

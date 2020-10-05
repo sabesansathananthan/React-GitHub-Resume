@@ -30,7 +30,7 @@ class Home extends Component {
     event.preventDefault();
 
     if (this.state.username.trim() !== "") {
-      this.props.history.push("/user/" + this.state.username + "/resume");
+      this.props.history.push("/user/" + this.state.username.toLowerCase() + "/resume");
     } else {
       this.setState({ validationError: true });
     }
@@ -47,10 +47,10 @@ class Home extends Component {
           style={{ flexDirection: "column" }}
         >
           <Typography variant="h5" align="center">
-            React Github Resume {packageJson.version}
+            Github Resume Generator {packageJson.version}
           </Typography>
           <Typography variant="body1" className="description" align="center">
-            Please enter Github profile name with case sensitive
+            Please enter Github username
           </Typography>
 
           <SearchForm
