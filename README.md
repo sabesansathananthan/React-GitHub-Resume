@@ -1,12 +1,12 @@
 # React-GitHub-Resume
 
-Aim of this repository is generate Github Resume for each github users.
+Aim of this repository is to generate `Github Resume` for each github users.
 
 ---
 
 ## [Live Demo](https://react-github-resume.vercel.app/)
 
-## Technologies used 🛠️
+## Built with 🛠️
 
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
@@ -19,15 +19,16 @@ To setup the app for development on your local machine, please follow the instru
 
 ```bash
 git clone https://github.com/sabesansathananthan/React-GitHub-Resume.git
+cd React-GitHub-Resume
 ```
 
-2. Install necessary packages
+2. Install packages
 
 ```bash
 npm install
 ```
 
-3. Start the development environment
+3. Run the development server
 
 ```bash
 npm start
