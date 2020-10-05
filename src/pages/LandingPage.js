@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { SearchForm } from "../components";
+import { SearchForm, Footer } from "../components";
 import { Grid, withStyles, Typography } from "@material-ui/core";
 import packageJson from "../../package.json";
 
@@ -39,8 +39,9 @@ class Home extends Component {
   render() {
     const { classes } = this.props;
     return (
-      <div id="home">
+      <React.Fragment>
         <Grid
+          id="home"
           container
           className={classes.container}
           style={{ flexDirection: "column" }}
@@ -58,7 +59,8 @@ class Home extends Component {
             validationError={this.state.validationError}
           />
         </Grid>
-      </div>
+        <Footer />
+      </React.Fragment>
     );
   }
 }
