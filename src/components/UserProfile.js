@@ -23,18 +23,22 @@ const useStyles = makeStyles((theme) => ({
     height: theme.spacing(30),
   },
   blockFlex: {
+    width: "80%",
     "@media (min-width: 992px)": {
       display: "flex",
       justifyContent: "space-evenly",
       alignItems: "center",
+      width: "800px",
     },
   },
   blockFlexRepo: {
+    width: "80%",
     "@media (min-width: 992px)": {
       display: "flex",
       justifyContent: "space-evenly",
       flexWrap: "wrap",
       alignItems: "flex-start",
+      width: "800px",
     },
   },
   blockItem: {
@@ -64,7 +68,9 @@ const UserProfile = (props) => {
         <i className="icon fas fa-chevron-left fa-2x"></i>
       </Link>
       <Grid className={classes.blockFlex}>
-        <Avatar alt="avatar" src={avatar_url} className={classes.avatar} />
+        <Grid className={classes.blockItem}>
+          <Avatar alt="avatar" src={avatar_url} className={classes.avatar} />
+        </Grid>
         <Grid className={classes.blockItem}>
           {name ? (
             <Typography variant="body1" paragraph>
