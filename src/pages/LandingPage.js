@@ -50,7 +50,7 @@ class Home extends Component {
             Github Resume Generator {packageJson.version}
           </Typography>
           <Typography variant="body1" className="description" align="center">
-            Please enter Github username
+            Please enter GitHub username
           </Typography>
 
           <SearchForm
