@@ -24,6 +24,7 @@ const RepoCard = (props) => {
   const { item, language } = props;
   const classes = useStyles();
   const hasLanguages = Object.keys(item.languages).length === 0 ? false : true;
+
   return (
     <Grid className={classes.card}>
       <i className="icon fas fa-star"></i> {item.stars}
@@ -39,16 +40,17 @@ const RepoCard = (props) => {
       </a>
       <Typography variant="body1">{item.description}</Typography>
       {hasLanguages ? (
-        Object.keys(item.languages).map((lang, index) => (
-          language[lang] ?
-          <Grid className={classes.chip} key={index}>
-            <i
-              className="icon fas fa-circle"
-              style={{ color: `${language[lang]["color"]}` }}
-            ></i>
-            {lang}
-          </Grid> : null
-        ))
+        Object.keys(item.languages).map((lang, index) =>
+          language[lang] ? (
+            <Grid className={classes.chip} key={index}>
+              <i
+                className="icon fas fa-circle"
+                style={{ color: `${language[lang]}` }}
+              ></i>
+              {lang}
+            </Grid>
+          ) : null
+        )
       ) : (
         <>
           <i className="icon icon--align-middle fas fa-times-circle"></i>
