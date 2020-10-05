@@ -46,7 +46,7 @@ const Loader = () => {
   const classes = useStyles();
   return (
     <Grid className={classes.container}>
-      <div className={classes.spinner}></div>
+      <Grid className={classes.spinner}></Grid>
     </Grid>
   );
 };
