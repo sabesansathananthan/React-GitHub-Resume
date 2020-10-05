@@ -40,13 +40,14 @@ const RepoCard = (props) => {
       <Typography variant="body1">{item.description}</Typography>
       {hasLanguages ? (
         Object.keys(item.languages).map((lang, index) => (
+          language[lang] ?
           <Grid className={classes.chip} key={index}>
             <i
               className="icon fas fa-circle"
               style={{ color: `${language[lang]["color"]}` }}
             ></i>
             {lang}
-          </Grid>
+          </Grid> : null
         ))
       ) : (
         <>
