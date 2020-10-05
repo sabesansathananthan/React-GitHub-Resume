@@ -30,7 +30,7 @@ class Home extends Component {
     event.preventDefault();
 
     if (this.state.username.trim() !== "") {
-      this.props.history.push("/user/" + this.state.username.toLowerCase() + "/resume");
+      this.props.history.push("/user/" + this.state.username + "/resume");
     } else {
       this.setState({ validationError: true });
     }
