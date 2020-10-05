@@ -1,6 +1,6 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](,./src/assets/readme/screenshot.png)
 
 ## Sumário
 
@@ -73,3 +73,5 @@ cd React-GitHub-Resume
 4. Visite <http://localhost:3000>
 
 ## [Demo](https://react-github-resume.vercel.app/)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
