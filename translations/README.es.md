@@ -1,17 +1,17 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
-## Table of Content
+## Tabla de contenidos
 
-- [About](#about)
-- [Built with](#built-with)
-- [Installation](#installation)
-- [Demo](#live-demo)
+- [Sobre](#sobre)
+- [Construido con](#construido-con)
+- [Instalación](#instalación)
+- [Demo](#demo)
 
 <br>
 
-### 🌎 *Read in [other languages](./translations/Translations.md)*
+### 🌎 *Leer en [otros idiomas](./translations/Translations.md)*
 
 <br>
 
@@ -22,60 +22,56 @@
 
 <br>
 
-## 🤔 About
+## 🤔 Sobre
 
-Aim of this repository is to generate `Github Resume` for each github users.
+El objetivo de este repositorio es generar un currículum de Github para cada usuario de github.
 
-## 🛠️ Built with
+## 🛠️ Construido con
 
-- [React JS](https://reactjs.org/) - Front-End JavaScript library
+- [React JS](https://reactjs.org/) - Biblioteca Front-End JavaScript
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Installation
+## Instalación
 
-To setup the app for development on your local machine, please follow the instructions below:
+Para configurar la aplicación para el desarrollo en su máquina local, siga las instrucciones a continuación:
 
-1. Clone the repo to your machine
+1. Clona el repositorio en tu máquina
 
 ```bash
 git clone https://github.com/sabesansathananthan/React-GitHub-Resume.git
 cd React-GitHub-Resume
 ```
 
-2. Install packages
+2. Instalar paquetes
 
-    If you use `npm`
+    Si utiliza `npm`
     ```bash
     npm install
     ```
 
     or
 
-    If you use `yarn`
+    Si utiliza `yarn`
     ```bash
     yarn
     ```
 
-3. Run the development server
+3. Ejecuta el servidor de desarrollo
 
-    If you use `npm`
+    Si utiliza `npm`
     ```bash
     npm start
     ```
 
     or
 
-    If you use `yarn`
+    Si utiliza `yarn`
     ```bash
     yarn start
     ```
 
-4. Visit <http://localhost:3000>
+4. Visita <http://localhost:3000>
 
-## [Live Demo](https://react-github-resume.vercel.app/)
+## [Demo](https://react-github-resume.vercel.app/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
