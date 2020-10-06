@@ -22,7 +22,7 @@ export default class Resume extends Component {
       lang.data = JSON.parse(localStorage.getItem("lang"));
     } else {
       localStorage.clear();
-      lang = await Axios.get("https://github-lang-deploy.herokuapp.com/");
+      lang = await Axios.get("https://github-lang-deploy.herokuapp.com/lang");
       localStorage.setItem("lang", JSON.stringify(lang.data));
     }
     this.setState({ language: lang.data });
@@ -52,11 +52,11 @@ export default class Resume extends Component {
     return response.data;
   }
 
-   fetchUserData(username) {
+  fetchUserData(username) {
     return Axios.get(GITHUB_API_USER + username).then(this.handleErrors);
   }
 
-   fetchUserRepos(username) {
+  fetchUserRepos(username) {
     return Axios.get(GITHUB_API_USER + username + "/repos")
       .then(this.handleErrors)
       .then((repositories) => this.fetchReposLanguages(repositories));
