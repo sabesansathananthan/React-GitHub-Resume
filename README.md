@@ -20,6 +20,7 @@
 <kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](./translations/README.it.md)</kbd>
+<kbd>[<img title="Čeština" alt="Čeština" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](./translations/README.cs.md)</kbd>
 
 <br>
 
