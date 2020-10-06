@@ -83,4 +83,4 @@ cd React-GitHub-Resume
 
 ## 📄 License
 
-Proyek ini dilisensikan dengan Lisensi MIT - lihat [LICENSE](../LICENSE) file untuk selengkapnya
+Proyek ini dilisensikan dengan Lisensi MIT - lihat [LISENSI](../LICENSE) file untuk selengkapnya
