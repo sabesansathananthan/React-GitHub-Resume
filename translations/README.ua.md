@@ -1,6 +1,6 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Таблиця вмісту
 
