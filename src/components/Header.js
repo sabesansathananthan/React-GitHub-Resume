@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Grid, InputLabel, makeStyles, Select, MenuItem } from "@material-ui/core";
 
+import i18n from '../i18n';
+
 import languages from '../constants/languages';
 
 const useStyles = makeStyles((theme) => ({
@@ -30,6 +32,7 @@ const Header = () => {
 
   const handleChangeLanguage = ({ target: { value } }) => {
     setLanguageCode(value);
+    i18n.changeLanguage(value);
   }
 
   return (
