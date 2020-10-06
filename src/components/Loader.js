@@ -46,7 +46,7 @@ const Loader = () => {
   const classes = useStyles();
   return (
     <Grid className={classes.container}>
-      <Grid className={classes.spinner}></Grid>
+      <Grid className={`custom-spinner ${classes.spinner}`}></Grid>
     </Grid>
   );
 };

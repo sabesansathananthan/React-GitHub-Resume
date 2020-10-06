@@ -16,3 +16,20 @@ body {
 .icon--align-middle {
   vertical-align: middle;
 }
+
+/* dark mode css */
+.darkmode--activated svg, .darkmode--activated .MuiInput-input {
+  color: #fff;
+}
+
+.darkmode--activated .MuiFormLabel-root {
+  color: #29b6f6;
+}
+
+.darkmode--activated .MuiInput-underline:before {
+  border-color: #29b6f6;
+}
+
+.darkmode--activated .custom-spinner:after {
+  border-color: #fff transparent #fff transparent;
+}
