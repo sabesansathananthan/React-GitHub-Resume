@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 _Read in [other languages](./translations/Translations.md)_
+### 🌎 _Baca juga dalam [bahasa yang lain](./translations/Translations.md)_
 
 <br>
 
@@ -83,4 +83,4 @@ cd React-GitHub-Resume
 
 ## 📄 License
 
-Proyek ini dilisensikan dengan Lisensi MIT - lihat [LICENSE](./LICENSE) file untuk selengkapnya
+Proyek ini dilisensikan dengan Lisensi MIT - lihat [LICENSE](../LICENSE) file untuk selengkapnya
