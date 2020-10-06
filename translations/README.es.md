@@ -75,3 +75,7 @@ cd React-GitHub-Resume
 ## [Demo](https://react-github-resume.vercel.app/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
+
+## 📄 Licencia
+
+Este proyecto tiene la licencia del MIT; consulte el archivo [LICENSE](../LICENSE) para obtener más detalles
