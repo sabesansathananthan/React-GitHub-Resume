@@ -70,7 +70,7 @@ const UserProfile = (props) => {
         </Link>
         <Grid className={classes.blockFlex}>
           <Grid className={classes.blockItem}>
-            <Avatar alt="avatar" src={avatar_url} className={classes.avatar} />
+            <Avatar alt="avatar" src={avatar_url} className={`darkmode-ignore ${classes.avatar}`} />
           </Grid>
           <Grid className={classes.blockItem}>
             {name ? (
