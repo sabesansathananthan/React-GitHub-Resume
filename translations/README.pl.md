@@ -1,6 +1,6 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Spis treści
 
@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 *Przeczytaj w [innych językach](./translations/Translations.md)*
+### 🌎 _Przeczytaj w [innych językach](./translations/Translations.md)_
 
 <br>
 
@@ -45,31 +45,35 @@ cd React-GitHub-Resume
 
 2. Zainstaluj paczki
 
-    Jeśli używasz `npm`
-    ```bash
-    npm install
-    ```
+   Jeśli używasz `npm`
 
-    lub
+   ```bash
+   npm install
+   ```
 
-    Jeśli używasz `yarn`
-    ```bash
-    yarn
-    ```
+   lub
+
+   Jeśli używasz `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Uruchom serwer deweloperski
 
-    Jeśli używasz `npm`
-    ```bash
-    npm start
-    ```
+   Jeśli używasz `npm`
 
-    lub
+   ```bash
+   npm start
+   ```
 
-    Jeśli używasz `yarn`
-    ```bash
-    yarn start
-    ```
+   lub
+
+   Jeśli używasz `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Wejdź na adres <http://localhost:3000>
 

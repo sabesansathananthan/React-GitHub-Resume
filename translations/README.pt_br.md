@@ -1,6 +1,6 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](,./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Sumário
 
@@ -11,7 +11,7 @@
 
 <br>
 
-### *Leia em [outras línguas](./Translations.md)*
+### _Leia em [outras línguas](./Translations.md)_
 
 <br>
 
@@ -19,7 +19,7 @@
 <kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
 <kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd>
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-
+<kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](./translations/README.pl.md)</kbd>
 <br>
 
 ## Sobre
@@ -44,31 +44,35 @@ cd React-GitHub-Resume
 
 2. Instale as bibliotecas
 
-    Se você usa `npm`
-    ```bash
-    npm install
-    ```
+   Se você usa `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    Se você usa `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   Se você usa `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Rode o servidor de desenvolvimento
 
-    Se você usa `npm`
-    ```bash
-    npm start
-    ```
+   Se você usa `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    Se você usa `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   Se você usa `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visite <http://localhost:3000>
 
