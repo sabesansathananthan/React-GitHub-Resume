@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 _Leer en [otros idiomas](./translations/Translations.md)_
+### 🌎 *Leer en [otros idiomas](./translations/Translations.md)*
 
 <br>
 
@@ -19,7 +19,6 @@
 <kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
 <kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](./translations/README.pl.md)</kbd>
 
 <br>
 
@@ -45,38 +44,38 @@ cd React-GitHub-Resume
 
 2. Instalar paquetes
 
-   Si utiliza `npm`
+    Si utiliza `npm`
+    ```bash
+    npm install
+    ```
 
-   ```bash
-   npm install
-   ```
+    or
 
-   or
-
-   Si utiliza `yarn`
-
-   ```bash
-   yarn
-   ```
+    Si utiliza `yarn`
+    ```bash
+    yarn
+    ```
 
 3. Ejecuta el servidor de desarrollo
 
-   Si utiliza `npm`
+    Si utiliza `npm`
+    ```bash
+    npm start
+    ```
 
-   ```bash
-   npm start
-   ```
+    or
 
-   or
-
-   Si utiliza `yarn`
-
-   ```bash
-   yarn start
-   ```
+    Si utiliza `yarn`
+    ```bash
+    yarn start
+    ```
 
 4. Visita <http://localhost:3000>
 
 ## [Demo](https://react-github-resume.vercel.app/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
+
+## 📄 Licencia
+
+Este proyecto tiene la licencia del MIT; consulte el archivo [LICENSE](../LICENSE) para obtener más detalles
