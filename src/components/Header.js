@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Grid, InputLabel, makeStyles, Select, MenuItem } from "@material-ui/core";
 
 import i18n from '../i18n';
@@ -33,7 +33,28 @@ const Header = () => {
   const handleChangeLanguage = ({ target: { value } }) => {
     setLanguageCode(value);
     i18n.changeLanguage(value);
+
+    if (
+      window
+      && window.localStorage
+    ) {
+      window.localStorage.setItem('REACT_GITHUB_PROFILE_LANG', value);
+    }
   }
+
+  useEffect(() => {
+    if (
+      window
+      && window.localStorage
+    ) {
+      const lang = window.localStorage.getItem('REACT_GITHUB_PROFILE_LANG');
+      setLanguageCode(lang || 'en');
+    }
+  }, []);
+
+  useEffect(() => {
+    i18n.changeLanguage(languageCode);
+  }, [languageCode]);
 
   return (
     <Grid
