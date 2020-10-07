@@ -11,6 +11,7 @@ const darkMode = new Darkmode({
   saveInCookies: true,
   label: '🌓',
   autoMatchOsTheme: true,
+  backgroundColor: '#f3f6f9',
 });
 
 
