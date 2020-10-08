@@ -4,25 +4,14 @@
 
 ## Таблица содержимого
 
-- [О проекте](#-o-проекте)
-- [Создано с помощью](#-cоздано-с-помощью)
+- [О проекте](#-о-проекте)
+- [Создано с помощью](#️-создано-с-помощью)
 - [Установка](#установка)
 - [Демо](#демо)
 
 <br>
 
 ### 🌎 _Читайте на [других языках](./Translations.md)_
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./README.de.md)</kbd> Скоро
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./README.fr.md)</kbd> Скоро
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./README.pt_br.md)</kbd>
-<kbd>[<img title="Ukrainian" alt="Ukrainian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](./README.ua.md)</kbd>
-<kbd>[<img title="Russian" alt="Russian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](./README.ru.md)</kbd>
-
-<br>
 
 ## 🤔 О проекте
 

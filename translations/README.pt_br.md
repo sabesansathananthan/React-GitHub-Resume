@@ -1,26 +1,17 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](,./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Sumário
 
 - [Sobre](#-sobre)
-- [Feito com](#-feito-com)
+- [Feito com](#️-feito-com)
 - [Instalação](#instalação)
 - [Demo](#demo)
 
 <br>
 
 ### 🌎 _Leia em [outras línguas](./Translations.md)_
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd>
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd>
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-
-<br>
 
 ## 🤔 Sobre
 

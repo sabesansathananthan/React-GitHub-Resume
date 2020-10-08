@@ -5,27 +5,13 @@
 ## உள்ளடக்கம்
 
 - [விபரம்](#-விபரம்)
-- [உருவாக்க பயன்பட்டவை](#-உருவாக்க-பயன்பட்டவை)
+- [உருவாக்க பயன்பட்டவை](#️-உருவாக்க-பயன்பட்டவை)
 - [நிறுவும் முறை](#நிறுவும்-முறை)
 - [செய்முறை](#நேரடி-செய்முறை)
 
 <br>
 
 ### 🌎 _[வேற்று மொழிகளில்](./Translations.md) வாசிக்க_
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Ukrainian" alt="Ukrainian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" width="22">](./translations/README.ua.md)</kbd>
-<kbd>[<img title="Russian" alt="Russian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](./translations/README.ru.md)</kbd>
-<kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](./translations/README.it.md)</kbd>
-<kbd>[<img title="India-Telugu" alt="India-Telugu" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](./translations/README.te.md)</kbd>
-<kbd>[<img title="Čeština" alt="Čeština" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](./translations/README.cs.md)</kbd>
-
-<br>
 
 ## 🤔 விபரம்
 
