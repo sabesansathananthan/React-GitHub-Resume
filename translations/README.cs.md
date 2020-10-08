@@ -5,7 +5,7 @@
 ## Seznam obsahu
 
 - [O projektu](#-o-projektu)
-- [Použité nástroje](#-použité-nástroje)
+- [Použité nástroje](#️-použité-nástroje)
 - [Instalace](#instalace)
 - [Demo](#živé-demo)
 
