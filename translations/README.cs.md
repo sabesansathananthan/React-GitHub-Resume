@@ -82,6 +82,6 @@ cd React-GitHub-Resume
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-## 📄 licenci
+## 📄 Licenci
 
 Tento projekt spadá pod licenci MIT — pro více detailů navštiv soubor s [LICENCÍ](../LICENSE)
