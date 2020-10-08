@@ -12,6 +12,6 @@
 | <img alt="Italiano" title="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">                     | [Italiano](./README.it.md)            |
 | <img alt="Indian-Telugu" title="India-Telugu" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">            | [Telugu](./README.te.md)              |
 | <img alt="Čeština" title="Čeština" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">                       | [Čeština](README.cs.md)               |
-| <img alt="தமிழ்" title="தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                           | [SL-Tamil](./README.ta.md)            |
+| <img alt="தமிழ்" title="தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                           | [தமிழ்](./README.ta.md)               |
 | <img alt="Indonesian" title="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">                 | [Indonesia](./README.id.md)           |
 | <img alt="Sinhala" title="සිංහල" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                         | [සිංහල](./README.si.md)               |
