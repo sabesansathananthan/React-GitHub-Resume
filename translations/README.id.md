@@ -36,14 +36,14 @@ Tujuan dari repositori ini adalah untuk menghasilkan `Resume Github` untuk setia
 
 Untuk menyiapkan aplikasi ini di komputer lokal Anda, ikuti petunjuk di bawah ini:
 
-1. Clone repository ini ke perangkat yang anda gunakan dengan cara
+1. Klon repositori ini ke perangkat yang anda gunakan dengan cara
 
 ```bash
 git clone https://github.com/sabesansathananthan/React-GitHub-Resume.git
 cd React-GitHub-Resume
 ```
 
-2. Install packages, dengan beberapa pilihan di bawah
+2. Install paket, dengan beberapa pilihan di bawah
 
    Jika kamu menggunakan `npm`,
 
