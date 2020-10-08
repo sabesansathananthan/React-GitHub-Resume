@@ -11,7 +11,7 @@
 
 <br>
 
-### Baca juga dalam [bahasa yang lain](../translations/Translations.md)_
+### 🌎 _Baca juga dalam [bahasa yang lain](./Translations.md)_
 
 <br>
 
@@ -82,6 +82,6 @@ cd React-GitHub-Resume
 
 [![Bangun dengan Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-## 📄 License
+## 📄 Lisensi
 
 Proyek ini dilisensikan dengan Lisensi MIT - lihat [LISENSI](../LICENSE) file untuk selengkapnya

@@ -4,14 +4,14 @@
 
 ## Seznam obsahu
 
-- [O projektu](#o%20projektu)
-- [Použité nástroje](#pou%C5%BEit%C3%A9%20n%C3%A1stroje)
+- [O projektu](#o-projektu)
+- [Použité nástroje](#Použité-nástroje)
 - [Instalace](#instalace)
-- [Demo](#%C5%BEiv%C3%A9%20demo)
+- [Demo](#Živé-demo)
 
 <br>
 
-### 🌎 *Čti v [jiných jazycích](./translations/Translations.md)*
+### 🌎 _Čti v [jiných jazycích](./Translations.md)_
 
 <br>
 
@@ -46,31 +46,35 @@ cd React-GitHub-Resume
 
 2. Nainstaluj balíčky
 
-    Používáš-li `npm`
-    ```bash
-    npm install
-    ```
+   Používáš-li `npm`
 
-    nebo
+   ```bash
+   npm install
+   ```
 
-    používáš-li `yarn`
-    ```bash
-    yarn
-    ```
+   nebo
+
+   používáš-li `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Spusť vývojářský server
 
-    Používáš-li `npm`
-    ```bash
-    npm start
-    ```
+   Používáš-li `npm`
 
-    nebo
+   ```bash
+   npm start
+   ```
 
-    používáš-li `yarn`
-    ```bash
-    yarn start
-    ```
+   nebo
+
+   používáš-li `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Přejdi na adresu <http://localhost:3000>
 
@@ -78,6 +82,6 @@ cd React-GitHub-Resume
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-## 📄 Licence
+## 📄 licenci
 
 Tento projekt spadá pod licenci MIT — pro více detailů navštiv soubor s [LICENCÍ](./LICENSE)

@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 _Przeczytaj w [innych językach](./translations/Translations.md)_
+### 🌎 _Przeczytaj w [innych językach](./Translations.md)_
 
 <br>
 

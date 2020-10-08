@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 *Leer en [otros idiomas](./translations/Translations.md)*
+### 🌎 _Leer en [otros idiomas](./Translations.md)_
 
 <br>
 
@@ -44,31 +44,35 @@ cd React-GitHub-Resume
 
 2. Instalar paquetes
 
-    Si utiliza `npm`
-    ```bash
-    npm install
-    ```
+   Si utiliza `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    Si utiliza `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   Si utiliza `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Ejecuta el servidor de desarrollo
 
-    Si utiliza `npm`
-    ```bash
-    npm start
-    ```
+   Si utiliza `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    Si utiliza `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   Si utiliza `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visita <http://localhost:3000>
 

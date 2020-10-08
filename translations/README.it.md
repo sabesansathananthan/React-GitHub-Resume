@@ -4,14 +4,14 @@
 
 ## Indice
 
-- [Informazioni](#about)
-- [Materiale utilizzato](#built-with)
-- [Installazione](#installation)
-- [Demo](#live-demo)
+- [Informazioni](#Informazioni)
+- [Materiale utilizzato](#Materiale-utilizzato)
+- [Installazione](#Installazione)
+- [Demo](#Demo-dal-vivo)
 
 <br>
 
-### 🌎 _Leggi in [altre lingue](./translations/Translations.md)_
+### 🌎 _Leggi in [altre lingue](./Translations.md)_
 
 <br>
 
@@ -82,4 +82,4 @@ cd React-GitHub-Resume
 
 ## 📄 Licenza
 
-Questo progetto è sotto la lincenza MIT - leggi il file [LICENSE](./LICENSE) per ulteriori dettagli
+Questo progetto è sotto la lincenza MIT - leggi il file [Licenza](./LICENSE) per ulteriori dettagli
