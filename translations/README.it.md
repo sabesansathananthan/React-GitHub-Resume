@@ -4,7 +4,7 @@
 
 ## Indice
 
-- [Informazioni](#informazioni)
+- [Informazioni](#-informazioni)
 - [Materiale utilizzato](#materiale-utilizzato)
 - [Installazione](#installazione)
 - [Demo](#demo-dal-vivo)
