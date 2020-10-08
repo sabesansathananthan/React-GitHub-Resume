@@ -1,8 +1,8 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
-## Table of Content
+## Daftar Isi
 
 - [Perkenalan](#perkenalan)
 - [Bahasa yang digunakan](#dibuat-dengan-bahasa)
@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 _Baca juga dalam [bahasa yang lain](./translations/Translations.md)_
+### Baca juga dalam [bahasa yang lain](../translations/Translations.md)_
 
 <br>
 
