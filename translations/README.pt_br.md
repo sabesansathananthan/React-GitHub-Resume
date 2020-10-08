@@ -4,14 +4,14 @@
 
 ## Sumário
 
-- [Sobre](#sobre)
-- [Feito com](#feito-com)
+- [Sobre](#-sobre)
+- [Feito com](#-feito-com)
 - [Instalação](#instalação)
 - [Demo](#demo)
 
 <br>
 
-### *Leia em [outras línguas](./Translations.md)*
+### 🌎 _Leia em [outras línguas](./Translations.md)_
 
 <br>
 
@@ -22,11 +22,11 @@
 
 <br>
 
-## Sobre
+## 🤔 Sobre
 
 O objetivo deste repositório é gerar um resumo do GitHub para cada usuário do github.
 
-## Feito com 🛠️
+## 🛠️ Feito com
 
 - [React JS](https://reactjs.org/) - Biblioteca Front-End JavaScript
 - [Material UI](https://material-ui.com/) - Framework do React para UI
@@ -44,31 +44,35 @@ cd React-GitHub-Resume
 
 2. Instale as bibliotecas
 
-    Se você usa `npm`
-    ```bash
-    npm install
-    ```
+   Se você usa `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    Se você usa `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   Se você usa `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Rode o servidor de desenvolvimento
 
-    Se você usa `npm`
-    ```bash
-    npm start
-    ```
+   Se você usa `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    Se você usa `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   Se você usa `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visite <http://localhost:3000>
 
@@ -76,7 +80,6 @@ cd React-GitHub-Resume
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-## 📄 License
+## 📄 Licença
 
 Este projeto está licenciado com a Licença do MIT - consulte o arquivo [LICENÇA](../LICENSE) para obter detalhes
-

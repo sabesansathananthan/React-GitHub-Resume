@@ -1,17 +1,17 @@
 # Generatore di curriculum per GitHub
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Indice
 
-- [Informazioni](#about)
-- [Materiale utilizzato](#built-with)
-- [Installazione](#installation)
-- [Demo](#live-demo)
+- [Informazioni](#informazioni)
+- [Materiale utilizzato](#materiale-utilizzato)
+- [Installazione](#installazione)
+- [Demo](#demo-dal-vivo)
 
 <br>
 
-### 🌎 _Leggi in [altre lingue](./translations/Translations.md)_
+### 🌎 _Leggi in [altre lingue](./Translations.md)_
 
 <br>
 
@@ -82,4 +82,4 @@ cd React-GitHub-Resume
 
 ## 📄 Licenza
 
-Questo progetto è sotto la lincenza MIT - leggi il file [LICENSE](./LICENSE) per ulteriori dettagli
+Questo progetto è sotto la lincenza MIT - leggi il file [LICENZA](../LICENSE) per ulteriori dettagli

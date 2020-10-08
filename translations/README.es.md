@@ -4,14 +4,14 @@
 
 ## Tabla de contenidos
 
-- [Sobre](#sobre)
-- [Construido con](#construido-con)
+- [Sobre](#-sobre)
+- [Construido con](#-construido-con)
 - [Instalación](#instalación)
 - [Demo](#demo)
 
 <br>
 
-### 🌎 *Leer en [otros idiomas](./translations/Translations.md)*
+### 🌎 _Leer en [otros idiomas](./Translations.md)_
 
 <br>
 
@@ -44,31 +44,35 @@ cd React-GitHub-Resume
 
 2. Instalar paquetes
 
-    Si utiliza `npm`
-    ```bash
-    npm install
-    ```
+   Si utiliza `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    Si utiliza `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   Si utiliza `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Ejecuta el servidor de desarrollo
 
-    Si utiliza `npm`
-    ```bash
-    npm start
-    ```
+   Si utiliza `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    Si utiliza `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   Si utiliza `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visita <http://localhost:3000>
 
@@ -78,4 +82,4 @@ cd React-GitHub-Resume
 
 ## 📄 Licencia
 
-Este proyecto tiene la licencia del MIT; consulte el archivo [LICENSE](../LICENSE) para obtener más detalles
+Este proyecto tiene la licencia del MIT; consulte el archivo [LICENCIA](../LICENSE) para obtener más detalles

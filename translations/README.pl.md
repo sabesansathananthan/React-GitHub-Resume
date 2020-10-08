@@ -4,14 +4,14 @@
 
 ## Spis treści
 
-- [O Projekcie](#o-projekcie)
-- [Wykorzystane technologie](#wykorzystane-technologie)
+- [O Projekcie](#-o-projekcie)
+- [Wykorzystane technologie](#-wykorzystane-technologie)
 - [Instalacja](#instalacja)
 - [Demo](#demo)
 
 <br>
 
-### 🌎 _Przeczytaj w [innych językach](./translations/Translations.md)_
+### 🌎 _Przeczytaj w [innych językach](./Translations.md)_
 
 <br>
 
@@ -83,4 +83,4 @@ cd React-GitHub-Resume
 
 ## 📄 Licencja
 
-Ten projekt jest objęty licencją MIT - zobacz [LICENCJA](./LICENSE) plik aby sprawdzić szczegóły
+Ten projekt jest objęty licencją MIT - zobacz [LICENCJA](../LICENSE) plik aby sprawdzić szczegóły
