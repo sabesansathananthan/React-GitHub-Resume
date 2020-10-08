@@ -5,7 +5,7 @@
 ## Table of Content
 
 - [About](#-about)
-- [Built with](#-built-with)
+- [Built with](#️-built-with)
 - [Installation](#installation)
 - [Demo](#live-demo)
 
