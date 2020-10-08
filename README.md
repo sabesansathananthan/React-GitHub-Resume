@@ -11,7 +11,7 @@
 
 <br>
 
-### 🌎 *Read in [other languages](./translations/Translations.md)*
+### 🌎 _Read in [other languages](./translations/Translations.md)_
 
 <br>
 
@@ -24,6 +24,7 @@
 <kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](./translations/README.it.md)</kbd>
 <kbd>[<img title="India-Telugu" alt="India-Telugu" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](./translations/README.te.md)</kbd>
 <kbd>[<img title="Čeština" alt="Čeština" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">](./translations/README.cs.md)</kbd>
+<kbd>[<img title="SriLankan-Tamil" alt="SriLankan-Tamil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">](./translations/README.ta.md)</kbd>
 
 <br>
 
@@ -49,31 +50,35 @@ cd React-GitHub-Resume
 
 2. Install packages
 
-    If you use `npm`
-    ```bash
-    npm install
-    ```
+   If you use `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    If you use `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   If you use `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Run the development server
 
-    If you use `npm`
-    ```bash
-    npm start
-    ```
+   If you use `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    If you use `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   If you use `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visit <http://localhost:3000>
 
