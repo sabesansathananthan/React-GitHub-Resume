@@ -83,4 +83,4 @@ cd React-GitHub-Resume
 
 ## 📄 Licencja
 
-Ten projekt jest objęty licencją MIT - zobacz [LICENCJA](./LICENSE) plik aby sprawdzić szczegóły
+Ten projekt jest objęty licencją MIT - zobacz [LICENCJA](../LICENSE) plik aby sprawdzić szczegóły

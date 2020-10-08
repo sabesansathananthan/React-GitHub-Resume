@@ -84,4 +84,4 @@ cd React-GitHub-Resume
 
 ## 📄 licenci
 
-Tento projekt spadá pod licenci MIT — pro více detailů navštiv soubor s [LICENCÍ](./LICENSE)
+Tento projekt spadá pod licenci MIT — pro více detailů navštiv soubor s [LICENCÍ](../LICENSE)
