@@ -4,10 +4,10 @@
 
 ## Indice
 
-- [Informazioni](#Informazioni)
-- [Materiale utilizzato](#Materiale-utilizzato)
-- [Installazione](#Installazione)
-- [Demo](#Demo-dal-vivo)
+- [Informazioni](#informazioni)
+- [Materiale utilizzato](#materiale-utilizzato)
+- [Installazione](#installazione)
+- [Demo](#demo-dal-vivo)
 
 <br>
 

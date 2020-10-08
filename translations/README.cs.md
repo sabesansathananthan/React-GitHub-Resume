@@ -5,9 +5,9 @@
 ## Seznam obsahu
 
 - [O projektu](#o-projektu)
-- [Použité nástroje](#Použité-nástroje)
+- [Použité nástroje](#použité-nástroje)
 - [Instalace](#instalace)
-- [Demo](#Živé-demo)
+- [Demo](#živé-demo)
 
 <br>
 
