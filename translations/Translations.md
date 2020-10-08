@@ -14,4 +14,4 @@
 | <img alt="Čeština" title="Čeština" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" width="22">                       | [Čeština](README.cs.md)               |
 | <img alt="SriLankan-Tamil" title="SriLankan-Tamil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">       | [SL-Tamil](./README.ta.md)            |
 | <img alt="Indonesian" title="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                 | [Indonesia](./README.id.md)           |
-| <img alt="Български" title="Български" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">                 | [Български](./README.bg.md)           |
+| <img alt="Български" title="Български" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">                   | [Български](./README.bg.md)           |
