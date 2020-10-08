@@ -4,8 +4,8 @@
 
 ## Daftar Isi
 
-- [Perkenalan](#perkenalan)
-- [Bahasa yang digunakan](#dibuat-dengan-bahasa)
+- [Perkenalan](#-perkenalan)
+- [Bahasa yang digunakan](#-dibuat-dengan-bahasa)
 - [Instalasi](#instalasi)
 - [Demo](#demo-langsung)
 
@@ -24,11 +24,11 @@
 <kbd>[<img title="Indonesian" alt="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](./translations/README.id.md)</kbd>
 <br>
 
-## Perkenalan
+## 🤔 Perkenalan
 
 Tujuan dari repositori ini adalah untuk menghasilkan `Resume Github` untuk setiap pengguna github.
 
-## Dibuat dengan bahasa
+## 🛠️ Dibuat dengan bahasa
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework

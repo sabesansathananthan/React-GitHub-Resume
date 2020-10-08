@@ -4,8 +4,8 @@
 
 ## Seznam obsahu
 
-- [O projektu](#o-projektu)
-- [Použité nástroje](#použité-nástroje)
+- [O projektu](#-o-projektu)
+- [Použité nástroje](#-použité-nástroje)
 - [Instalace](#instalace)
 - [Demo](#živé-demo)
 

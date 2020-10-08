@@ -4,8 +4,8 @@
 
 ## Tabla de contenidos
 
-- [Sobre](#sobre)
-- [Construido con](#construido-con)
+- [Sobre](#-sobre)
+- [Construido con](#-construido-con)
 - [Instalación](#instalación)
 - [Demo](#demo)
 

@@ -4,8 +4,8 @@
 
 ## Spis treści
 
-- [O Projekcie](#o-projekcie)
-- [Wykorzystane technologie](#wykorzystane-technologie)
+- [O Projekcie](#-o-projekcie)
+- [Wykorzystane technologie](#-wykorzystane-technologie)
 - [Instalacja](#instalacja)
 - [Demo](#demo)
 

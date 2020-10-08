@@ -4,14 +4,14 @@
 
 ## Sumário
 
-- [Sobre](#sobre)
-- [Feito com](#feito-com)
+- [Sobre](#-sobre)
+- [Feito com](#-feito-com)
 - [Instalação](#instalação)
 - [Demo](#demo)
 
 <br>
 
-### _Leia em [outras línguas](./Translations.md)_
+### 🌎 _Leia em [outras línguas](./Translations.md)_
 
 <br>
 
@@ -22,11 +22,11 @@
 
 <br>
 
-## Sobre
+## 🤔 Sobre
 
 O objetivo deste repositório é gerar um resumo do GitHub para cada usuário do github.
 
-## Feito com 🛠️
+## 🛠️ Feito com
 
 - [React JS](https://reactjs.org/) - Biblioteca Front-End JavaScript
 - [Material UI](https://material-ui.com/) - Framework do React para UI
