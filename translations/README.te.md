@@ -5,24 +5,13 @@
 ## విషయ సూచిక
 
 - [అబౌట్](#-అబౌట్)
-- [బిల్ట్-విత్](#-బిల్ట్-విత్)
+- [బిల్ట్-విత్](#️-బిల్ట్-విత్)
 - [ఇన్స్టల్లేషన్](#ఇన్స్టల్లేషన్)
 - [డెమో](#లైవ్-డెమో)
 
 <br>
 
 ### 🌎 _ [వేరే భాషలో](./Translations.md) చదవండి_
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> త్వరలో వస్తాయి
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> త్వరలో వస్తాయి
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](./translations/README.it.md)</kbd>
-<kbd>[<img title="India-Telugu" alt="India-Telugu" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">](./translations/README.te.md)</kbd>
-
-<br>
 
 ## 🤔 అబౌట్
 

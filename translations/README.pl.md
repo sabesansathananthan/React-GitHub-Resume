@@ -5,23 +5,13 @@
 ## Spis treści
 
 - [O Projekcie](#-o-projekcie)
-- [Wykorzystane technologie](#-wykorzystane-technologie)
+- [Wykorzystane technologie](#️-wykorzystane-technologie)
 - [Instalacja](#instalacja)
 - [Demo](#demo)
 
 <br>
 
 ### 🌎 _Przeczytaj w [innych językach](./Translations.md)_
-
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](./translations/README.pl.md)</kbd>
-
-<br>
 
 ## 🤔 O projekcie
 
