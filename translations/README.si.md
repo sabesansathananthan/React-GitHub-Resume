@@ -1,17 +1,17 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
-## Table of Content
+## අන්තර්ගතය
 
-- [About](#about)
-- [Built with](#built-with)
-- [Installation](#installation)
-- [Demo](#live-demo)
+- [හැදින්වීම](#-හැදින්වීම)
+- [භාවිතා කල මෙවලම්](#-භාවිතා-කල-මෙවලම්)
+- [ස්ථාපනය කිරීම](#ස්ථාපනය-කිරීම)
+- [ආදර්ශනය](#ආදර්ශනය)
 
 <br>
 
-### 🌎 _Read in [other languages](./translations/Translations.md)_
+### 🌎 _[වෙනත් භාෂාවලින්](./Translations.md) කියවන්න_
 
 <br>
 
@@ -26,68 +26,67 @@
 <kbd>[<img title="Čeština" alt="Čeština" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cz.svg" height="14">](./translations/README.cs.md)</kbd>
 <kbd>[<img title="SriLankan-Tamil" alt="SriLankan-Tamil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.ta.md)</kbd>
 <kbd>[<img title="Indonesian" alt="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" height="14">](./translations/README.id.md)</kbd>
-<kbd>[<img title="Sinhala" alt="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.si.md)</kbd>
 
 <br>
 
-## 🤔 About
+## 🤔 හැදින්වීම
 
-Aim of this repository is to generate `Github Resume` for each github users.
+මෙම repository  එකෙහි පරමාර්ථය වන්නේ එක් එක් GitHub භාවිතා කරන්නන් සඳහා `GitHub Resume` නිර්මාණය  කිරීමයි.
 
-## 🛠️ Built with
+## 🛠️ භාවිතා කල මෙවලම්
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Installation
+## ස්ථාපනය කිරීම
 
-To setup the app for development on your local machine, please follow the instructions below:
+ඔබගේ පරිගණකයේ මෙම යෙදුම සංවර්ධනය සඳහා සැකසීමට, කරුණාකර පහත උපදෙස් අනුගමනය කරන්න:
 
-1. Clone the repo to your machine
+1. ඔබේ පරිගණකයට මෙම  repo එක ක්ලෝන කරන්න
 
 ```bash
 git clone https://github.com/sabesansathananthan/React-GitHub-Resume.git
 cd React-GitHub-Resume
 ```
 
-2. Install packages
+2. පැකේජ ස්ථාපනය කරන්න
 
-   If you use `npm`
+   ඔබ `npm`  භාවිතා කරන්නේ නම්
 
    ```bash
    npm install
    ```
 
-   or
-
-   If you use `yarn`
+  හෝ
+  
+  `yarn` භාවිතා කරන්නේ නම්
 
    ```bash
    yarn
    ```
 
-3. Run the development server
+3. Development server එක ධාවනය කරන්න
 
-   If you use `npm`
+   ඔබ `npm` භාවිතා කරන්නේ නම්
 
    ```bash
    npm start
    ```
 
-   or
-
-   If you use `yarn`
+   හෝ
+   
+   `yarn` භාවිතා කරන්නේ නම්
 
    ```bash
    yarn start
    ```
 
-4. Visit <http://localhost:3000>
+4.  <http://localhost:3000> වෙත පිවිසෙන්න
 
-## [Live Demo](https://react-github-resume.vercel.app/)
+## [ආදර්ශනය](https://react-github-resume.vercel.app/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-## 📄 License
+## 📄 බලපත්‍රය
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
+මෙම ව්‍යාපෘතිය MIT බලපත්‍රය යටතේ බලපත්‍ර ලබා ඇත - විස්තර සඳහා [බලපත්‍රය](../LICENSE) ගොනුව බලන්න.
