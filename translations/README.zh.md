@@ -73,4 +73,5 @@ cd React-GitHub-Resume
 
 ## 📄 许可
 
-本项目遵照MIT许可证 - 详情请访问[LICENSE](./LICENSE)
+本项目遵照MIT许可证 - 详情请访问[许可](../LICENSE)
+
