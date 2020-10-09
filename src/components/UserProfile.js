@@ -48,6 +48,10 @@ const useStyles = makeStyles((theme) => ({
   info: {
     margin: "2rem 0",
   },
+  icon: {
+    marginRight: "0.5rem",
+    color: "black",
+  },
 }));
 
 const UserProfile = (props) => {
@@ -66,7 +70,9 @@ const UserProfile = (props) => {
     <React.Fragment>
       <Grid container className={classes.container}>
         <Link to="/" className="link--back">
-          <i className="icon fas fa-chevron-left fa-2x"></i>
+          <i
+            className={[classes.icon, "fas fa-chevron-left fa-2x"].join(" ")}
+          ></i>
         </Link>
         <Grid className={classes.blockFlex}>
           <Grid className={classes.blockItem}>
@@ -75,28 +81,33 @@ const UserProfile = (props) => {
           <Grid className={classes.blockItem}>
             {name ? (
               <Typography variant="body1" paragraph>
-                <i className="icon fas fa-user"></i> {name}
+                <i className={[classes.icon, "fas fa-user"].join(" ")}></i>{" "}
+                {name}
               </Typography>
             ) : null}
             {login ? (
               <Typography variant="body1" paragraph>
-                <i className="icon fab fa-github"></i> {login}
+                <i className={[classes.icon, "fab fa-github"].join(" ")}></i>{" "}
+                {login}
               </Typography>
             ) : null}
             {bio ? (
               <Typography variant="body1" paragraph>
-                <i className="icon fas fa-book"></i> {bio}
+                <i className={[classes.icon, "fas fa-book"].join(" ")}></i>{" "}
+                {bio}
               </Typography>
             ) : null}
             {location ? (
               <Typography variant="body1" paragraph>
-                <i className="icon fas fa-map-marker-alt"></i>
+                <i
+                  className={[classes.icon, "fas fa-map-marker-alt"].join(" ")}
+                ></i>
                 {location}
               </Typography>
             ) : null}
             {company ? (
               <Typography variant="body1" paragraph>
-                <i className="icon far fa-building"></i>
+                <i className={[classes.icon, "far fa-building"].join(" ")}></i>
                 {company}
               </Typography>
             ) : null}
@@ -110,7 +121,7 @@ const UserProfile = (props) => {
             ))
           ) : (
             <Grid className={classes.info}>
-              <i className="icon fas fa-info-circle"></i>
+              <i className={[classes.icon, "fas fa-info-circle"].join(" ")}></i>
               <span>{username} does not has any repositories</span>
             </Grid>
           )}

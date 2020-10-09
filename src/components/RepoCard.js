@@ -18,6 +18,13 @@ const useStyles = makeStyles((theme) => ({
     fontSize: "0.7rem",
     fontWeight: "bold",
   },
+  icon: {
+    marginRight: "0.5rem",
+    color: "black",
+  },
+  iconAlign: {
+    verticalAlign: "middle",
+  },
 }));
 
 const RepoCard = (props) => {
@@ -27,7 +34,7 @@ const RepoCard = (props) => {
 
   return (
     <Grid className={classes.card}>
-      <i className="icon fas fa-star"></i> {item.stars}
+      <i className={[classes.icon, "fas fa-star"].join(" ")}></i> {item.stars}
       <a
         href={item.url}
         style={{ textDecoration: "none", color: "black" }}
@@ -49,7 +56,7 @@ const RepoCard = (props) => {
           language[lang] ? (
             <Grid className={classes.chip} key={index}>
               <i
-                className="icon fas fa-circle"
+                className={[classes.icon, "fas fa-circle"].join(" ")}
                 style={{ color: `${language[lang]}` }}
               ></i>
               {lang}
@@ -58,7 +65,13 @@ const RepoCard = (props) => {
         )
       ) : (
         <>
-          <i className="icon icon--align-middle fas fa-times-circle"></i>
+          <i
+            className={[
+              classes.icon,
+              classes.iconAlign,
+              "fas fa-times-circle",
+            ].join(" ")}
+          ></i>
           <span>no language detected</span>
         </>
       )}

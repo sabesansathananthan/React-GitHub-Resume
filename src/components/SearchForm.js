@@ -35,6 +35,10 @@ const useStyles = makeStyles((theme) => ({
     color: "red",
     fontSize: "0.9rem",
   },
+  icon: {
+    marginRight: "0.5rem",
+    color: "black",
+  },
 }));
 
 const SearchForm = (props) => {
@@ -72,7 +76,9 @@ const SearchForm = (props) => {
           {props.validationError ? (
             <Typography className={classes.validationTypo} variant="body1">
               <i
-                className="icon fas fa-exclamation-circle"
+                className={[classes.icon, "fas fa-exclamation-circle"].join(
+                  " "
+                )}
                 style={{ color: "red" }}
               ></i>
               Username is required
