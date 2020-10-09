@@ -2,6 +2,8 @@
 
 ![React GitHub Resume](./src/assets/readme/screenshot.png)
 
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/sabesansathananthan/React-GitHub-Resume) [![GitHub package.json version](https://img.shields.io/github/package-json/v/sabesansathananthan/React-GitHub-Resume?color=ff69b4)](https://react-github-resume.vercel.app/) [![Website](https://img.shields.io/website?down_color=critical&up_color=blueviolet&url=https%3A%2F%2Freact-github-resume.vercel.app%2F)](https://react-github-resume.vercel.app/) [![GitHub repo size](https://img.shields.io/github/repo-size/sabesansathananthan/React-GitHub-Resume)](https://github.com/sabesansathananthan/React-GitHub-Resume) [![GitHub top language](https://img.shields.io/github/languages/top/sabesansathananthan/React-GitHub-Resume?color=yellow)](https://github.com/sabesansathananthan/React-GitHub-Resume/search?l=JavaScript&type=code) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sabesansathananthan/React-GitHub-Resume?color=lightgrey)](https://github.com/sabesansathananthan/React-GitHub-Resume/tree/master/src) [![GitHub language count](https://img.shields.io/github/languages/count/sabesansathananthan/React-GitHub-Resume?color=orange)](https://github.com/sabesansathananthan/React-GitHub-Resume) [![GitHub deployments](https://img.shields.io/github/deployments/sabesansathananthan/React-GitHub-Resume/Production)](https://github.com/sabesansathananthan/React-GitHub-Resume/deployments) [![GitHub](https://img.shields.io/github/license/sabesansathananthan/React-GitHub-Resume?color=9cf)](./LICENSE)
+
 ## Table of Content
 
 - [About](#about)
