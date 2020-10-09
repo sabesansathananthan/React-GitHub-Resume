@@ -34,11 +34,16 @@ const RepoCard = (props) => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Typography variant="h6" style={{ fontWeight: "bolder" }}>
+        <Typography
+          variant="h6"
+          style={{ fontWeight: "bolder", wordBreak: "break-word" }}
+        >
           {item.name}
         </Typography>
       </a>
-      <Typography variant="body1">{item.description}</Typography>
+      <Typography variant="body1" style={{ wordBreak: "break-word" }}>
+        {item.description}
+      </Typography>
       {hasLanguages ? (
         Object.keys(item.languages).map((lang, index) =>
           language[lang] ? (
