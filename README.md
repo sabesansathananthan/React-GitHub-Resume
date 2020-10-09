@@ -28,6 +28,7 @@
 <kbd>[<img title="Tamil" alt="Tamil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.ta.md)</kbd>
 <kbd>[<img title="Indonesian" alt="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" height="14">](./translations/README.id.md)</kbd>
 <kbd>[<img title="Sinhala" alt="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.si.md)</kbd>
+<kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" height="14">](./translations/README.bg.md)</kbd>
 
 <br>
 

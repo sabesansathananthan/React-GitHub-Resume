@@ -15,3 +15,4 @@
 | <img alt="தமிழ்" title="தமிழ்" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                           | [தமிழ்](./README.ta.md)               |
 | <img alt="Indonesian" title="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">                 | [Indonesia](./README.id.md)           |
 | <img alt="Sinhala" title="සිංහල" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                         | [සිංහල](./README.si.md)               |
+| <img alt="Bulgarian" title="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">                         | [Bulgarian](./README.bg.md)               |
