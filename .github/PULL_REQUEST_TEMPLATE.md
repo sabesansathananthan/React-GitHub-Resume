@@ -24,15 +24,15 @@ _Your explanation goes here!_
 
 ## For transilators.
 
-- [] Create a file called `README.lang.md` in the translations folder.
+- [ ] Create a file called `README.lang.md` in the translations folder.
   lang means shorten form of your language Refer this [site](https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code).
 
-- [] Check all the links are working.
+- [ ] Check all the links are working.
 
-- [] Check all the parts are translated ().
-- [] If about and built-with are not working inspect the page and copy the href and paste in your file.
-- [] Edit the translations/Translations.md adding you language icon/link
-- [] Edit the main README.md adding your language icon
+- [ ] Check all the parts are translated ().
+- [ ] If about and built-with are not working inspect the page and copy the href and paste in your file.
+- [ ] Edit the translations/Translations.md adding you language icon/link
+- [ ] Edit the main README.md adding your language icon
 
 <!-- ## Any Screenshots of Your Changes :camera:
 
