@@ -29,8 +29,8 @@ _Your explanation goes here!_
 
 - [ ] Check all the links are working.
 
-- [ ] Check all the parts are translated ().
-- [ ] If about and built-with are not working inspect the page and copy the href and paste in your file.
+- [ ] Check all the parts are translated.
+- [ ] If about and built-with are not working then inspect the page and copy the href and paste in your file.
 - [ ] Edit the translations/Translations.md adding you language icon/link
 - [ ] Edit the main README.md adding your language icon
 
