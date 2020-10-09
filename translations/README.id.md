@@ -5,7 +5,7 @@
 ## Daftar Isi
 
 - [Perkenalan](#about)
-- [Bahasa yang digunakan](#️built-with)
+- [Bahasa yang digunakan](#built-with)
 - [Instalasi](#installation)
 - [Demo](#live-demo)
 

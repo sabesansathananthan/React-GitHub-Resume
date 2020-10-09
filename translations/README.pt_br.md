@@ -5,7 +5,7 @@
 ## Sumário
 
 - [Sobre](#about)
-- [Feito com](#️built-with)
+- [Feito com](#built-with)
 - [Instalação](#installation)
 - [Demo](#live-demo)
 

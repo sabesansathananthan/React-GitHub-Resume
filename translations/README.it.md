@@ -5,7 +5,7 @@
 ## Indice
 
 - [Informazioni](#about)
-- [Materiale utilizzato](#️built-with)
+- [Materiale utilizzato](#built-with)
 - [Installazione](#installation)
 - [Demo](#live-demo)
 

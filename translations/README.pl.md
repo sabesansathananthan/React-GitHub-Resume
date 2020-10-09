@@ -5,7 +5,7 @@
 ## Spis treści
 
 - [O Projekcie](#about)
-- [Wykorzystane technologie](#️built-with)
+- [Wykorzystane technologie](#built-with)
 - [Instalacja](#installation)
 - [Demo](#live-demo)
 

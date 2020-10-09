@@ -5,7 +5,7 @@
 ## Table of Content
 
 - [About](#about)
-- [Built with](#️built-with)
+- [Built with](#built-with)
 - [Installation](#installation)
 - [Demo](#live-demo)
 
@@ -87,7 +87,7 @@ cd React-GitHub-Resume
 
 4. Visit <http://localhost:3000>
 
-<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">[Live Demo]</a></h2>
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Live Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
