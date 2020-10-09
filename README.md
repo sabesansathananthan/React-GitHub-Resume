@@ -4,8 +4,8 @@
 
 ## Table of Content
 
-- [About](#-about)
-- [Built with](#️-built-with)
+- [About](#about)
+- [Built with](#️built-with)
 - [Installation](#installation)
 - [Demo](#live-demo)
 
@@ -31,19 +31,18 @@
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" height="14">](./translations/README.bg.md)</kbd>
 <kbd>[<img title="Chinese" alt="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" height="14">](./translations/README.zh.md)</kbd>
 
-
 <br>
 
-## 🤔 About
+<h2 id='about'>🤔 About</h2>
 
 Aim of this repository is to generate `Github Resume` for each github users.
 
-## 🛠️ Built with
+<h2 id='built-with'>🛠️ Built with</h2>
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Installation
+<h2 id='installation'>Installation</h2>
 
 To setup the app for development on your local machine, please follow the instructions below:
 
@@ -88,7 +87,7 @@ cd React-GitHub-Resume
 
 4. Visit <http://localhost:3000>
 
-## [Live Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">[Live Demo]</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 

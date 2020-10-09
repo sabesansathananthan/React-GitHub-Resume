@@ -4,25 +4,25 @@
 
 ## Indice
 
-- [Informazioni](#-informazioni)
-- [Materiale utilizzato](#️-materiale-utilizzato)
-- [Installazione](#installazione)
-- [Demo](#demo-dal-vivo)
+- [Informazioni](#about)
+- [Materiale utilizzato](#️built-with)
+- [Installazione](#installation)
+- [Demo](#live-demo)
 
 <br>
 
 ### 🌎 _Leggi in [altre lingue](./Translations.md)_
 
-## 🤔 Informazioni
+<h2 id='about'>🤔 Informazioni</h2>
 
 Lo scopo di questa repository è di generare un `Curriculum Github` per ogni utente di github.
 
-## 🛠️ Materiale utilizzato
+<h2 id='built-with'>🛠️ Materiale utilizzato</h2>
 
 - [React JS](https://reactjs.org/) - Libreria Front-End JavaScript
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Installazione
+<h2 id='installation'>Installazione</h2>
 
 Per configurare l'applicazione per lo sviluppo nella tua macchina locale, per favore segui le istruzioni qui sotto:
 
@@ -67,7 +67,7 @@ cd React-GitHub-Resume
 
 4. Visita <http://localhost:3000>
 
-## [Demo dal vivo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo dal vivo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 

@@ -4,25 +4,25 @@
 
 ## Spis treści
 
-- [O Projekcie](#-o-projekcie)
-- [Wykorzystane technologie](#️-wykorzystane-technologie)
-- [Instalacja](#instalacja)
-- [Demo](#demo)
+- [O Projekcie](#about)
+- [Wykorzystane technologie](#️built-with)
+- [Instalacja](#installation)
+- [Demo](#live-demo)
 
 <br>
 
 ### 🌎 _Przeczytaj w [innych językach](./Translations.md)_
 
-## 🤔 O projekcie
+<h2 id='about'>🤔 O projekcie</h2>
 
 Celem tego repozytorium jest wygenerowanie `Github Resume` dla każdego użytkownika github.
 
-## 🛠️ Wykorzystane technologie
+<h2 id='built-with'>🛠️ Wykorzystane technologie</h2>
 
 - [React JS](https://reactjs.org/) - Biblioteka Front-End JavaScript
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Instalacja
+<h2 id='installation'>Instalacja</h2>
 
 Aby skonfigurować aplikację do programowania na komputerze lokalnym, postępuj zgodnie z poniższymi instrukcjami:
 
@@ -67,7 +67,7 @@ cd React-GitHub-Resume
 
 4. Wejdź na adres <http://localhost:3000>
 
-## [Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 

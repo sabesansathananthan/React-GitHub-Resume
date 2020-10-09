@@ -4,25 +4,25 @@
 
 ## Daftar Isi
 
-- [Perkenalan](#-perkenalan)
-- [Bahasa yang digunakan](#️-dibuat-dengan-bahasa)
-- [Instalasi](#instalasi)
-- [Demo](#demo-langsung)
+- [Perkenalan](#about)
+- [Bahasa yang digunakan](#️built-with)
+- [Instalasi](#installation)
+- [Demo](#live-demo)
 
 <br>
 
 ### 🌎 _Baca juga dalam [bahasa yang lain](./Translations.md)_
 
-## 🤔 Perkenalan
+<h2 id='about'>🤔 Perkenalan</h2>
 
 Tujuan dari repositori ini adalah untuk menghasilkan `Resume Github` untuk setiap pengguna github.
 
-## 🛠️ Dibuat dengan bahasa
+<h2 id='built-with'>🛠️ Dibuat dengan bahasa</h2>
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Instalasi
+<h2 id='installation'>Instalasi</h2>
 
 Untuk menyiapkan aplikasi ini di komputer lokal Anda, ikuti petunjuk di bawah ini:
 
@@ -67,7 +67,7 @@ cd React-GitHub-Resume
 
 4. Lalu buka <http://localhost:3000>
 
-## [Demo Langsung](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo Langsung</a></h2>
 
 [![Bangun dengan Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 

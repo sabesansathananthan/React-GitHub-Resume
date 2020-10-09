@@ -4,25 +4,25 @@
 
 ## Seznam obsahu
 
-- [O projektu](#-o-projektu)
-- [Použité nástroje](#️-použité-nástroje)
-- [Instalace](#instalace)
-- [Demo](#živé-demo)
+- [O projektu](#about)
+- [Použité nástroje](#️built-with)
+- [Instalace](#installation)
+- [Demo](#live-demo)
 
 <br>
 
 ### 🌎 _Čti v [jiných jazycích](./Translations.md)_
 
-## 🤔 O projektu
+<h2 id='about'>🤔 O projektu</h2>
 
 Cíl tohoto repozitáře je vygenerovat `Github resumé` pro každého uživatele Github.
 
-## 🛠️ Použité nástroje
+<h2 id='built-with'>🛠️ Použité nástroje</h2>
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Instalace
+<h2 id='installation'>Instalace</h2>
 
 Chceš-li nastavit aplikaci k vývoji na tvém lokálním stroji, následuj prosím pokyny níže:
 
@@ -67,7 +67,7 @@ cd React-GitHub-Resume
 
 4. Přejdi na adresu <http://localhost:3000>
 
-## [Živé demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Živé demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
