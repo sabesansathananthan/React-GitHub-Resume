@@ -16,3 +16,4 @@
 | <img alt="Indonesian" title="Indonesian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">                 | [Bahasa Indonesia](./README.id.md)           |
 | <img alt="Sinhala" title="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" width="22">                         | [සිංහල](./README.si.md)               |
 | <img alt="Bulgarian" title="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" width="22">                         | [Български](./README.bg.md)               |
+| <img alt="Chinese" title="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">                         | [中文](./README.zh.md)               |
