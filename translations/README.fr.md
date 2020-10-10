@@ -1,13 +1,13 @@
-# GitHub Resume Generator
+# Générateur de Résumé GitHub
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![Résumé GitHub pour React](../src/assets/readme/screenshot.png)
 
-## Table of Content
+## Table des Matières
 
-- [A propos](#about)
-- [Compilé avec](#built-with)
+- [A propos](#a-propos)
+- [Compilé avec](##compilation-avec)
 - [Installation](#installation)
-- [Demo](#live-demo)
+- [Demo](#demo-direct)
 
 <br>
 
