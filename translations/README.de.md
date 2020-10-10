@@ -71,4 +71,4 @@ Um die App zur Entwicklung lokal zu installieren folge bitte folgenden Anweisung
 
 ## 📄 Lizenz
 
-Dieses Projekt ist lizensiert unter der MIT License - [LICENSE](../LICENSE) für Details
+Dieses Projekt ist lizensiert unter der MIT Lizenz - [LIZENZ](../LICENSE) für Details
