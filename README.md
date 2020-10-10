@@ -17,7 +17,7 @@
 
 <br>
 
-<kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" height="14">](./translations/README.fr.md)</kbd> Upcoming
+<kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" height="14">](./translations/README.fr.md)</kbd>
 <kbd>[<img title="Spanish" alt="Spanish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" height="14">](./translations/README.es.md)</kbd>
 <kbd>[<img title="German" alt="German" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" height="14">](./translations/README.de.md)</kbd>
 <kbd>[<img title="Portuguese (Brasil)" alt="Portuguese (Brasil)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" height="14">](./translations/README.pt_br.md)</kbd>
