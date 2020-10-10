@@ -1,4 +1,4 @@
-# GitHub Özgeçmiş'i Üreticisi
+# GitHub Özgeçmişi Üreticisi
 
 ![React GitHub Resume](../src/assets/readme/screenshot.png)
 
@@ -15,7 +15,7 @@
 
 <h2 id='about'>🤔 Hakkında</h2>
 
-Bu projenin amacı tüm github kullanıcıları için otomatik bir şekilde `Github Özgeçmiş`'i sayfası oluşturmaktır. 
+Bu projenin amacı tüm github kullanıcıları için otomatik bir şekilde `Github Özgeçmişi` sayfası oluşturmaktır. 
 
 <h2 id='built-with'>🛠️ Kütüphaneler</h2>
 
