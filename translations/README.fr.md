@@ -70,4 +70,4 @@ cd React-GitHub-Resume
 
 ## 📄 License
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](./LICENSE) pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](../LICENSE) pour plus de détails.
