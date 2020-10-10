@@ -1,37 +1,28 @@
 # GitHub Resume Generator
 
-![React GitHub Resume](,./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Sumário
 
-- [Sobre](#sobre)
-- [Feito com](#feito-com)
-- [Instalação](#instalação)
-- [Demo](#demo)
+- [Sobre](#about)
+- [Feito com](#built-with)
+- [Instalação](#installation)
+- [Demo](#live-demo)
 
 <br>
 
-### *Leia em [outras línguas](./Translations.md)*
+### 🌎 _Leia em [outras línguas](./Translations.md)_
 
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd>
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd>
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-
-<br>
-
-## Sobre
+<h2 id='about'>🤔 Sobre</h2>
 
 O objetivo deste repositório é gerar um resumo do GitHub para cada usuário do github.
 
-## Feito com 🛠️
+<h2 id='built-with'>🛠️ Feito com</h2>
 
 - [React JS](https://reactjs.org/) - Biblioteca Front-End JavaScript
 - [Material UI](https://material-ui.com/) - Framework do React para UI
 
-## Instalação
+<h2 id='installation'>Instalação</h2>
 
 Para configurar o app para desenvolvimento na sua máquina, siga as instruções abaixo:
 
@@ -44,39 +35,42 @@ cd React-GitHub-Resume
 
 2. Instale as bibliotecas
 
-    Se você usa `npm`
-    ```bash
-    npm install
-    ```
+   Se você usa `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    Se você usa `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   Se você usa `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Rode o servidor de desenvolvimento
 
-    Se você usa `npm`
-    ```bash
-    npm start
-    ```
+   Se você usa `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    Se você usa `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   Se você usa `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visite <http://localhost:3000>
 
-## [Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
-## 📄 License
+## 📄 Licença
 
 Este projeto está licenciado com a Licença do MIT - consulte o arquivo [LICENÇA](../LICENSE) para obter detalhes
-

@@ -1,6 +1,6 @@
 # Generatore di curriculum per GitHub
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Indice
 
@@ -11,27 +11,18 @@
 
 <br>
 
-### 🌎 _Leggi in [altre lingue](./translations/Translations.md)_
+### 🌎 _Leggi in [altre lingue](./Translations.md)_
 
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](./translations/README.pl.md)</kbd>
-<br>
-
-## 🤔 Informazioni
+<h2 id='about'>🤔 Informazioni</h2>
 
 Lo scopo di questa repository è di generare un `Curriculum Github` per ogni utente di github.
 
-## 🛠️ Materiale utilizzato
+<h2 id='built-with'>🛠️ Materiale utilizzato</h2>
 
 - [React JS](https://reactjs.org/) - Libreria Front-End JavaScript
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Installazione
+<h2 id='installation'>Installazione</h2>
 
 Per configurare l'applicazione per lo sviluppo nella tua macchina locale, per favore segui le istruzioni qui sotto:
 
@@ -76,10 +67,10 @@ cd React-GitHub-Resume
 
 4. Visita <http://localhost:3000>
 
-## [Demo dal vivo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo dal vivo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
 ## 📄 Licenza
 
-Questo progetto è sotto la lincenza MIT - leggi il file [LICENSE](./LICENSE) per ulteriori dettagli
+Questo progetto è sotto la lincenza MIT - leggi il file [LICENZA](../LICENSE) per ulteriori dettagli

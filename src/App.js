@@ -3,8 +3,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { LandingPage, Resume } from "./pages";
 import { NotFoundPage } from "./components";
 
-import "./App.css";
-
 const App = () => (
   <Router basename={process.env.PUBLIC_URL}>
     <div id="app">
