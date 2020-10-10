@@ -4,14 +4,14 @@
 
 ## Table des Matières
 
-- [A propos](#a-propos)
-- [Compilé avec](##compilation-avec)
+- [A propos](#about)
+- [Compilé avec](#built-with)
 - [Installation](#installation)
-- [Demo](#demo-direct)
+- [Demo](#live-demo)
 
 <br>
 
-### 🌎 *Lire dans [d'autres langages](./translations/Translations.md)*
+### 🌎 *Lire dans [d'autres langages](./Translations.md)*
 
 
 <h2 id='about'>🤔 A propos</h2>
