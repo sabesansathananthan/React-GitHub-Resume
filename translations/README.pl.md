@@ -4,35 +4,25 @@
 
 ## Spis treści
 
-- [O Projekcie](#o-projekcie)
-- [Wykorzystane technologie](#wykorzystane-technologie)
-- [Instalacja](#instalacja)
-- [Demo](#demo)
+- [O Projekcie](#about)
+- [Wykorzystane technologie](#built-with)
+- [Instalacja](#installation)
+- [Demo](#live-demo)
 
 <br>
 
-### 🌎 _Przeczytaj w [innych językach](./translations/Translations.md)_
+### 🌎 _Przeczytaj w [innych językach](./Translations.md)_
 
-<br>
-
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](./translations/README.de.md)</kbd> Upcoming
-<kbd>[<img title="Español" alt="Español" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./translations/README.es.md)</kbd>
-<kbd>[<img title="Français" alt="Français" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./translations/README.fr.md)</kbd> Upcoming
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](./translations/README.pl.md)</kbd>
-
-<br>
-
-## 🤔 O projekcie
+<h2 id='about'>🤔 O projekcie</h2>
 
 Celem tego repozytorium jest wygenerowanie `Github Resume` dla każdego użytkownika github.
 
-## 🛠️ Wykorzystane technologie
+<h2 id='built-with'>🛠️ Wykorzystane technologie</h2>
 
 - [React JS](https://reactjs.org/) - Biblioteka Front-End JavaScript
 - [Material UI](https://material-ui.com/) - React UI Framework
 
-## Instalacja
+<h2 id='installation'>Instalacja</h2>
 
 Aby skonfigurować aplikację do programowania na komputerze lokalnym, postępuj zgodnie z poniższymi instrukcjami:
 
@@ -77,10 +67,10 @@ cd React-GitHub-Resume
 
 4. Wejdź na adres <http://localhost:3000>
 
-## [Demo](https://react-github-resume.vercel.app/)
+<h2 id='live-demo'><a href="https://react-github-resume.vercel.app/">Demo</a></h2>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/sabesansathananthan/React-GitHub-Resume)
 
 ## 📄 Licencja
 
-Ten projekt jest objęty licencją MIT - zobacz [LICENCJA](./LICENSE) plik aby sprawdzić szczegóły
+Ten projekt jest objęty licencją MIT - zobacz [LICENCJA](../LICENSE) plik aby sprawdzić szczegóły
