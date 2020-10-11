@@ -106,7 +106,7 @@ const UserProfile = (props) => {
         <Grid className={classes.blockFlexRepo}>
           {repositories.length > 0 ? (
             repositories.map((repo, index) => (
-              <RepoCard item={repo} key={index} language={language} />
+              <RepoCard item={repo} key={index} language={language} className="darkmode-ignore" />
             ))
           ) : (
             <Grid className={classes.info}>
