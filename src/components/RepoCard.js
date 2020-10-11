@@ -56,7 +56,7 @@ const RepoCard = (props) => {
           language[lang] ? (
             <Grid className={classes.chip} key={index}>
               <i
-                className={[classes.icon, "fas fa-circle"].join(" "), "darkmode-ignore"}
+                className={[classes.icon, "fas fa-circle darkmode-ignore"].join(" ")}
                 style={{ color: `${language[lang]}` }}
               ></i>
               {lang}
