@@ -12,6 +12,7 @@ const darkMode = new Darkmode({
   label: '🌓',
   autoMatchOsTheme: true,
   backgroundColor: '#f3f6f9',
+  mixColor: '#f8dabf',
 });
 
 
