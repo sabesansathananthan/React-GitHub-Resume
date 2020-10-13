@@ -19,3 +19,4 @@
 | <img alt="Chinese" title="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">                         | [中文](./README.zh.md)               |
 | <img alt="Turkish" title="Turkish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" width="22">                         | [Türkçe](./README.tr.md)               |
 | <img alt="Traditional Chinese" title="Traditional Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">                         | [繁體中文](./README.zh_tw.md)               |
+| <img alt="Kannada" title="Kannada" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">            			  | [ಕನ್ನಡ ](./README.kn.md)               |
