@@ -1,6 +1,6 @@
 # Penjana Resume GitHub
 
-![React GitHub Resume](./src/assets/readme/screenshot.png)
+![React GitHub Resume](../src/assets/readme/screenshot.png)
 
 ## Jadual kandungan
 
