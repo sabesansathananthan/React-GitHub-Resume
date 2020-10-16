@@ -73,4 +73,4 @@ cd React-GitHub-Resume
 
 ## 📄 Lesen
 
-Projek ini dilesenkan di bawah Lesen MIT - lihat fail [LICENSE](../LICENSE) untuk maklumat lanjut
+Projek ini dilesenkan di bawah Lesen MIT - lihat fail [LESEN](../LICENSE) untuk maklumat lanjut
