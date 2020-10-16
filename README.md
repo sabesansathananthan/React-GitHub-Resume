@@ -35,6 +35,7 @@
 <kbd>[<img title="Turkish" alt="Turkish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" height="14">](./translations/README.tr.md)</kbd>
 <kbd>[<img title="Traditional Chinese" alt="Traditional Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" height="14">](./translations/README.zh_tw.md)</kbd>
 <kbd>[<img title="Kannada" alt="Kannada" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" height="14">](./translations/README.kn.md)</kbd>
+<kbd>[<img title="Malay" alt="Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" height="14">](./translations/README.ms.md)</kbd>
 <br>
 
 <h2 id='about'>🤔 About</h2>
