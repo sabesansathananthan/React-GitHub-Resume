@@ -21,3 +21,4 @@
 | <img alt="Traditional Chinese" title="Traditional Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" width="22">          | [繁體中文](./README.zh_tw.md) |
 | <img alt="Kannada" title="Kannada" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">            		  | [ಕನ್ನಡ ](./README.kn.md)               |
 | <img alt="Malay" title="Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">                         | [Bahasa Melayu](./README.ms.md)        |
+| <img alt="Македонски" title="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">               | [Македонски](./README.mk.md)            |
