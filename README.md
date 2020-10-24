@@ -17,9 +17,9 @@
 
 <br>
 
-<kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" height="14">](./translations/README.fr.md)</kbd> Upcoming
+<kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" height="14">](./translations/README.fr.md)</kbd>
 <kbd>[<img title="Spanish" alt="Spanish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" height="14">](./translations/README.es.md)</kbd>
-<kbd>[<img title="German" alt="German" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" height="14">](./translations/README.de.md)</kbd> Upcoming
+<kbd>[<img title="German" alt="German" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" height="14">](./translations/README.de.md)</kbd>
 <kbd>[<img title="Portuguese (Brasil)" alt="Portuguese (Brasil)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" height="14">](./translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Polish" alt="Polish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" height="14">](./translations/README.pl.md)</kbd>
 <kbd>[<img title="Ukrainian" alt="Ukrainian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ua.svg" height="14">](./translations/README.uk.md)</kbd>
@@ -32,7 +32,11 @@
 <kbd>[<img title="Sinhala" alt="Sinhala" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/lk.svg" height="14">](./translations/README.si.md)</kbd>
 <kbd>[<img title="Bulgarian" alt="Bulgarian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/bg.svg" height="14">](./translations/README.bg.md)</kbd>
 <kbd>[<img title="Chinese" alt="Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" height="14">](./translations/README.zh.md)</kbd>
-
+<kbd>[<img title="Turkish" alt="Turkish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tr.svg" height="14">](./translations/README.tr.md)</kbd>
+<kbd>[<img title="Traditional Chinese" alt="Traditional Chinese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/tw.svg" height="14">](./translations/README.zh_tw.md)</kbd>
+<kbd>[<img title="Kannada" alt="Kannada" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" height="14">](./translations/README.kn.md)</kbd>
+<kbd>[<img title="Malay" alt="Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" height="14">](./translations/README.ms.md)</kbd>
+<kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" height="14">](./translations/README.mk.md)</kbd>
 <br>
 
 <h2 id='about'>🤔 About</h2>
