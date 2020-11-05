@@ -1,6 +1,6 @@
-# గిట్ హబ్ రెసుమె జెనరేటర్
+<h1 align='center'>GitHub Resume Generator</h1>
 
-![React GitHub Resume](https://github.com/sabesansathananthan/React-GitHub-Resume/blob/master/src/assets/readme/screenshot.png)
+<img alt="React GitHub Resume" src="../src/assets/readme/screenshot.png"  align='center'/>
 
 ## విషయ సూచిక
 

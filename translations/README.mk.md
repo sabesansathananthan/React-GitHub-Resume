@@ -1,6 +1,6 @@
-# Гитхаб резиме генератор (GitHub Resume Generator)
+<h1 align='center'>GitHub Resume Generator</h1>
 
-![Реакт ГитХаб резиме](../src/assets/readme/screenshot.png)
+<img alt="React GitHub Resume" src="../src/assets/readme/screenshot.png"  align='center'/>
 
 ## Содржина
 

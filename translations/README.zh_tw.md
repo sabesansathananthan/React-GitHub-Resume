@@ -1,7 +1,6 @@
+<h1 align='center'>GitHub Resume Generator</h1>
 
-# Github 履歷產生器
-
-![React GitHub Resume](../src/assets/readme/screenshot.png)
+<img alt="React GitHub Resume" src="../src/assets/readme/screenshot.png"  align='center'/>
 
 ## 目錄
 

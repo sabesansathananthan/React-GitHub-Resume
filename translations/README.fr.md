@@ -1,6 +1,6 @@
-# Générateur de Résumé GitHub
+<h1 align='center'>GitHub Resume Generator</h1>
 
-![Résumé GitHub pour React](../src/assets/readme/screenshot.png)
+<img alt="React GitHub Resume" src="../src/assets/readme/screenshot.png"  align='center'/>
 
 ## Table des Matières
 
@@ -11,8 +11,7 @@
 
 <br>
 
-### 🌎 *Lire dans [d'autres langages](./Translations.md)*
-
+### 🌎 _Lire dans [d'autres langages](./Translations.md)_
 
 <h2 id='about'>🤔 A propos</h2>
 
@@ -36,31 +35,35 @@ cd React-GitHub-Resume
 
 2. Installer les packages
 
-    Si vous utilisez `npm`
-    ```bash
-    npm install
-    ```
+   Si vous utilisez `npm`
 
-    or
+   ```bash
+   npm install
+   ```
 
-    Si vous utilisez `yarn`
-    ```bash
-    yarn
-    ```
+   or
+
+   Si vous utilisez `yarn`
+
+   ```bash
+   yarn
+   ```
 
 3. Execution sur un serveur en développement
 
-    Si vous utilisez `npm`
-    ```bash
-    npm start
-    ```
+   Si vous utilisez `npm`
 
-    or
+   ```bash
+   npm start
+   ```
 
-    Si vous utilisez `yarn`
-    ```bash
-    yarn start
-    ```
+   or
+
+   Si vous utilisez `yarn`
+
+   ```bash
+   yarn start
+   ```
 
 4. Visiter <http://localhost:3000>
 
