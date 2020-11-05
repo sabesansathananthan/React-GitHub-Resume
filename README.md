@@ -1,4 +1,4 @@
-# GitHub Resume Generator
+<h1 align='center'>GitHub Resume Generator</h1>
 
 ![React GitHub Resume](./src/assets/readme/screenshot.png)
 
