@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { SearchForm, Footer, Header } from "../components";
 import { Grid, withStyles, Typography } from "@material-ui/core";
 import packageJson from "../../package.json";
-import { withTranslation } from 'react-i18next';
+import { withTranslation } from "react-i18next";
 
 const style = {
   container: {
@@ -50,7 +50,7 @@ class Home extends Component {
           style={{ flexDirection: "column" }}
         >
           <Typography variant="h5" align="center">
-            {this.props.t('Github Resume Generator')} {packageJson.version}
+            {this.props.t("Github Resume Generator")} {packageJson.version}
           </Typography>
           <Typography variant="body1" className="description" align="center">
             Please enter GitHub username
@@ -68,4 +68,4 @@ class Home extends Component {
   }
 }
 
-export default withStyles(style)(withTranslation()((Home)));
+export default withStyles(style)(withTranslation()(Home));

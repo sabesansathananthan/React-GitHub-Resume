@@ -15,23 +15,13 @@ export default class Resume extends Component {
   async componentDidMount() {
     const { username } = this.props.match.params;
     this.setState({ isFetching: true });
-    let lang = {};
 
-    //Cached language data
-    if (localStorage.getItem("lang")) {
-      lang.data = JSON.parse(localStorage.getItem("lang"));
-    } else {
-      localStorage.clear();
-      lang = await Axios.get("https://github-lang-deploy.herokuapp.com/lang");
-      localStorage.setItem("lang", JSON.stringify(lang.data));
-    }
-    this.setState({ language: lang.data });
     try {
       const userData = await this.fetchUserData(username);
       const userRepos = await this.fetchUserRepos(username);
       this.setState({
-        isFetching: false,
         data: { ...userData, repositories: userRepos },
+        isFetching: false,
       });
     } catch (err) {
       this.props.history.push({
@@ -42,24 +32,28 @@ export default class Resume extends Component {
         },
       });
     }
-  }
-
-  handleErrors(response) {
-    if (!response.statusText) {
-      var error = new Error(response.statusText || response.status);
-      return Promise.reject(error);
+    let lang = {};
+    //Cached language data
+    if (localStorage.getItem("lang")) {
+      lang.data = JSON.parse(localStorage.getItem("lang"));
+    } else {
+      localStorage.clear();
+      lang = await Axios.get("https://github-lang-deploy.herokuapp.com/lang");
+      localStorage.setItem("lang", JSON.stringify(lang.data));
     }
-    return response.data;
+    this.setState({ language: lang.data });
   }
 
   fetchUserData(username) {
-    return Axios.get(GITHUB_API_USER + username).then(this.handleErrors);
+    return Axios.get(GITHUB_API_USER + username)
+      .then((response) => response.data)
+      .catch((error) => Promise.reject(error));
   }
 
   fetchUserRepos(username) {
     return Axios.get(GITHUB_API_USER + username + "/repos")
-      .then(this.handleErrors)
-      .then((repositories) => this.fetchReposLanguages(repositories));
+      .then((response) => this.fetchReposLanguages(response.data))
+      .catch((error) => Promise.reject(error));
   }
   comapare(a, b) {
     if (a.stargazers_count > b.stargazers_count) return -1;
@@ -75,18 +69,16 @@ export default class Resume extends Component {
     repositories.sort(this.comapare);
     return Promise.all(
       repositories.map((repo) =>
-        Axios.get(repo.languages_url)
-          .then(this.handleErrors)
-          .then((repoLanguages) => {
-            return {
-              name: repo.name,
-              description: repo.description,
-              url: repo.html_url,
-              languages: repoLanguages,
-              stars: repo.stargazers_count,
-              watchers: repo.watchers_count,
-            };
-          })
+        Axios.get(repo.languages_url).then((repoLanguages) => {
+          return {
+            name: repo.name,
+            description: repo.description,
+            url: repo.html_url,
+            languages: repoLanguages.data,
+            stars: repo.stargazers_count,
+            watchers: repo.watchers_count,
+          };
+        })
       )
     );
   }
@@ -94,7 +86,6 @@ export default class Resume extends Component {
   render() {
     const { username } = this.props.match.params;
     const { data, isFetching, language } = this.state;
-
     if (!isFetching && data) {
       return (
         <Grid id="resume">
