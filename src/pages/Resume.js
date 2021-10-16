@@ -92,8 +92,6 @@ export default class Resume extends Component {
     if (!isFetching && data) {
       return (
         <React.Fragment>
-     
-
         <Grid id="resume" ref={(response) => (this.componentRef = response)}>
           <UserProfile data={data} username={username} language={language} />
         </Grid>

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import { SearchForm, Footer, Header } from "../components";
 import { Grid, withStyles, Typography } from "@material-ui/core";
 import packageJson from "../../package.json";
@@ -42,8 +41,7 @@ class Home extends Component {
     const { classes } = this.props;
 
     return (
-      <React.Fragment>
-        
+      <React.Fragment>    
         <Header />
         <Grid
           id="home"
