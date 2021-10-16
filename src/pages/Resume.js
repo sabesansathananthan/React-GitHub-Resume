@@ -2,7 +2,7 @@
 
 import React, { Component } from "react";
 import { UserProfile, Loader } from "../components";
-import { Grid } from "@material-ui/core";
+import { Button, Grid } from "@material-ui/core";
 import Axios from "axios";
 import ReactToPrint from 'react-to-print';
 
@@ -99,7 +99,11 @@ export default class Resume extends Component {
         </Grid>
         <ReactToPrint
             content={() => this.componentRef}
-            trigger={() => <button className="btn btn-primary">Print to PDF!</button>}
+            trigger={() => (
+              <div style={{textAlign:"center"}}>
+              <Button variant="contained">Print to PDF!</Button>
+            </div>
+            )}
           />
         </React.Fragment>
       );
