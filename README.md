@@ -59,7 +59,8 @@
 <kbd>[<img title="Kannada" alt="Kannada" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" height="14">](./translations/README.kn.md)</kbd>
 <kbd>[<img title="Malay" alt="Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" height="14">](./translations/README.ms.md)</kbd>
 <kbd>[<img title="Македонски" alt="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" height="14">](./translations/README.mk.md)</kbd>
-<kbd>[<img title="Nepali" alt="Nepali" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" height="14">](./translations/README.ne.md)</kbd>    
+<kbd>[<img title="Nepali" alt="Nepali" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" height="14">](./translations/README.ne.md)</kbd>
+<kbd>[<img title="Hindi" alt="Hindi" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" height="14">](./translations/README.ne.md)</kbd>  
 <br>
 
 <h2 id='about'>🤔 About</h2>
