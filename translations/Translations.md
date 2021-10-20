@@ -23,3 +23,4 @@
 | <img alt="Malay" title="Malay" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/my.svg" width="22">                         | [Bahasa Melayu](./README.ms.md)        |
 | <img alt="Македонски" title="Македонски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/mk.svg" width="22">               | [Македонски](./README.mk.md)            |
 <img alt="Nepali" title="Nepali" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/np.svg" width="22">                     | [नेपाली](README.ne.md)                 |
+| <img alt="Hindi" title="Hindi" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="22">                     | [हिंदी](README.hi.md)                 |
