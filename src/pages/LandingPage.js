@@ -41,7 +41,7 @@ class Home extends Component {
     const { classes } = this.props;
 
     return (
-      <React.Fragment>
+      <React.Fragment>    
         <Header />
         <Grid
           id="home"
@@ -63,6 +63,8 @@ class Home extends Component {
           />
         </Grid>
         <Footer />
+    
+        
       </React.Fragment>
     );
   }

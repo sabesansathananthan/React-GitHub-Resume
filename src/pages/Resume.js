@@ -1,7 +1,10 @@
+
+
 import React, { Component } from "react";
 import { UserProfile, Loader } from "../components";
-import { Grid } from "@material-ui/core";
+import { Button, Grid } from "@material-ui/core";
 import Axios from "axios";
+import ReactToPrint from 'react-to-print';
 
 const GITHUB_API_USER = "https://api.github.com/users/";
 
@@ -88,9 +91,19 @@ export default class Resume extends Component {
     const { data, isFetching, language } = this.state;
     if (!isFetching && data) {
       return (
-        <Grid id="resume">
+        <React.Fragment>
+        <Grid id="resume" ref={(response) => (this.componentRef = response)}>
           <UserProfile data={data} username={username} language={language} />
         </Grid>
+        <ReactToPrint
+            content={() => this.componentRef}
+            trigger={() => (
+              <div style={{textAlign:"center"}}>
+              <Button variant="contained">Print to PDF!</Button>
+            </div>
+            )}
+          />
+        </React.Fragment>
       );
     } else {
       return <Loader />;
