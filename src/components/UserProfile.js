@@ -1,9 +1,9 @@
-import React from "react";
+import React, { useState, useEffect, useRef } from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import { RepoCard, Footer } from "./index";
-
 import { makeStyles, Grid, Avatar, Typography } from "@material-ui/core";
+import DownloadPdf from "./DownloadPdf";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -66,9 +66,16 @@ const UserProfile = (props) => {
     repositories,
   } = props.data;
   const classes = useStyles();
+  const ref = React.createRef();
+  const [height, setHeight] = useState(0)
+
+  useEffect(() => {
+    setHeight(ref.current.clientHeight)
+  })
+
   return (
     <React.Fragment>
-      <Grid container className={classes.container}>
+      <Grid container className={classes.container} ref={ref}>
         <Link to="/" className="link--back">
           <i
             className={[classes.icon, "fas fa-chevron-left fa-2x"].join(" ")}
@@ -127,6 +134,7 @@ const UserProfile = (props) => {
           )}
         </Grid>
       </Grid>
+      <DownloadPdf resume={ref} height={height} />
       <Footer />
     </React.Fragment>
   );
