@@ -1,19 +1,9 @@
-import React, { useRef } from 'react'
+import React from 'react';
 import PropTypes from "prop-types";
 import Pdf from "react-to-pdf";
-import { Button, Grid, makeStyles } from "@material-ui/core";
+import { Button, makeStyles } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
-    container: {
-        maxWidth: "80%",
-        margin: "2rem auto",
-        padding: "1rem",
-        background: "white",
-        borderRadius: "10px",
-        "@media (min-width: 992px)": {
-            maxWidth: "800px",
-        },
-    },
     button: {
         border: "none",
         borderRadius: "5px",
@@ -22,11 +12,11 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: "#29b6f6",
         height: "36px",
         padding: "0 1.5rem",
-        marginLeft: "0.5rem",
     },
 }));
 
 const DownloadPdf = (props) => {
+
     const classes = useStyles();
     const options = {
         orientation: 'potrait',
@@ -35,22 +25,16 @@ const DownloadPdf = (props) => {
     };
 
     return (
-        <Grid
-            container
-            className={classes.container}
-            style={{ flexDirection: "column" }}
-        >
-            <Pdf targetRef={props.resume} filename="github-resume.pdf" options={options}>
-                {({ toPdf }) => <Button
-                    variant="contained"
-                    color="primary"
-                    className={classes.button}
-                    onClick={toPdf}
-                >
-                    Download as PDF
-                </Button>}
-            </Pdf>
-        </Grid>
+        <Pdf targetRef={props.resume} filename="github-resume.pdf" options={options}>
+            {({ toPdf }) => <Button
+                variant="contained"
+                color="primary"
+                className={classes.button}
+                onClick={toPdf}
+            ><i className='fas fa-solid fa-download'>&nbsp;</i>
+                Download
+            </Button>}
+        </Pdf>
     )
 }
 
