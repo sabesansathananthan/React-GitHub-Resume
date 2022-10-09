@@ -1,9 +1,9 @@
-import React from "react";
+import React, { useState, useEffect, useRef } from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import { RepoCard, Footer } from "./index";
-
 import { makeStyles, Grid, Avatar, Typography } from "@material-ui/core";
+import DownloadPdf from "./DownloadPdf";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -11,7 +11,17 @@ const useStyles = makeStyles((theme) => ({
     margin: "2rem auto",
     padding: "1rem",
     background: "white",
-    borderRadius: "10px",
+    borderRadius: "0 0 10px 10px",
+    "@media (min-width: 992px)": {
+      maxWidth: "800px",
+    },
+  },
+  buttonContainer: {
+    maxWidth: "80%",
+    margin: "2rem auto -2rem auto",
+    padding: "1rem",
+    background: "white",
+    borderRadius: "10px 10px 0 0",
     "@media (min-width: 992px)": {
       maxWidth: "800px",
     },
@@ -51,7 +61,23 @@ const useStyles = makeStyles((theme) => ({
   icon: {
     marginRight: "0.5rem",
     color: "black",
+    '@media print': {
+      display: 'none'
+    }
   },
+  wrapper: {
+    display: 'flex',
+    width: "100%",
+  },
+  buttonWrapper: {
+    display: 'flex',
+    justifyContent: "flex-end",
+  },
+  iconWrapper: {
+    display: 'flex',
+    justifyContent: "flex-start",
+    width: "100%",
+  }
 }));
 
 const UserProfile = (props) => {
@@ -66,14 +92,31 @@ const UserProfile = (props) => {
     repositories,
   } = props.data;
   const classes = useStyles();
+  const ref = React.createRef();
+  const [height, setHeight] = useState(0)
+
+  useEffect(() => {
+    setHeight(ref.current.clientHeight)
+  })
+
   return (
     <React.Fragment>
-      <Grid container className={classes.container}>
-        <Link to="/" className="link--back">
-          <i
-            className={[classes.icon, "fas fa-chevron-left fa-2x"].join(" ")}
-          ></i>
-        </Link>
+      <Grid container className={classes.buttonContainer}>
+        <div className={classes.wrapper}>
+          <div className={classes.iconWrapper}>
+            <Link to="/" className="link--back">
+              <i
+                className={[classes.icon, "fas fa-chevron-left fa-2x"].join(" ")}
+              ></i>
+            </Link>
+          </div>
+          <div className={classes.buttonWrapper}>
+            <DownloadPdf resume={ref} height={height} />
+          </div>
+        </div>
+      </Grid>
+
+      <Grid container className={classes.container} ref={ref}>
         <Grid className={classes.blockFlex}>
           <Grid className={classes.blockItem}>
             <Avatar alt="avatar" src={avatar_url} className={classes.avatar} />
